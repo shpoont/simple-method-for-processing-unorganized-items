@@ -1,6 +1,19 @@
 # Changelog
 
-## 1.0.0
+Versioned summaries of changes to the method and repository maintenance.
+For lasting decisions and their rationale, see the
+[decision log](docs/decision-log.md).
+
+## Repository maintenance — 2026-10-09
+
+- Add a README with navigation, author attribution, feedback guidance and
+  disclaimers, following the Project Execution Model repository's conventions.
+- Add the MIT License and a dedicated decision log.
+- Move the method into `docs/` without changing its contents.
+- Align repository topics and collaboration settings for public distribution.
+- Retain method version v1.0.0 and its existing fixed tag.
+
+## [v1.0.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.0.0)
 
 Released on 2026-10-09.
 
