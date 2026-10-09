@@ -12,6 +12,7 @@ For lasting decisions and their rationale, see the
 - Move the method into `docs/` without changing its contents.
 - Align repository topics and collaboration settings for public distribution.
 - Retain method version v1.0.0 and its existing fixed tag.
+- Remove `VERSIONING.md` and update the references to it.
 
 ## [v1.0.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.0.0)
 

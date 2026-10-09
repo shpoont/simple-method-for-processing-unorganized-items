@@ -14,7 +14,6 @@ Author: **Leon.id Komarovsky** — [leonid@komarovsky.info](mailto:leonid@komaro
   The method document contains the guidance to use.
 - [Changelog](CHANGELOG.md) — summaries of changes by version and repository
   maintenance.
-- [Versioning](VERSIONING.md) — version choices and release procedure.
 
 The repository layout can change independently of the method. The fixed
 [v1.0.0 release](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.0.0)
