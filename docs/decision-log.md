@@ -71,13 +71,33 @@ cost, available evidence and usefulness for later work. Item count alone is not
 a sufficient rule. Evidence outside the collection provides context without
 expanding membership or authority to change that source.
 
-Collection boundaries do not require a complete inventory. By default, order
-the eligible items discovered so far. When strict order across the whole
-collection matters, require evidence that establishes it; a reliable sorted
-view can suffice. Preserve truthful coverage claims and the distinction between
-a container action, fulfilled handling of included contents and individual
-inspection.
+Collection boundaries do not require a complete inventory. Use the collection's
+existing order or current view by default. Choose a different order when the
+purpose requires it, or a useful order when none is available. Selection can use
+discovered eligible items unless strict order across the whole collection is
+required. In that case, require evidence that establishes the order; a reliable
+sorted view can suffice. Preserve truthful coverage claims and the distinction
+between a container action, fulfilled handling of included contents and
+individual inspection.
 
 Document reviews and paper walkthroughs, recorded in the
 [revision review](reviews/v1.1.0-review.md), support the clarity of this revision.
 They do not establish its practical effectiveness in real use.
+
+## D06 — 2026-10-10: Make the reading path and examples explicit
+
+**Status: proposed for v1.1.0.** A compact document can still be difficult to
+follow when instructions, explanations, examples and exceptions are interwoven.
+Give each step a clear practical instruction and keep the existing procedure
+visible. Make defaults and optional choices easy to recognize, with conditions
+placed beside the instruction they qualify.
+
+Use the established method terms in shared rules. Clearly label concrete
+examples so readers can immediately distinguish an illustration from generic
+guidance. Keep useful examples that show possible activities and decisions.
+Explain collection membership and included container contents in plain language.
+Using an existing order should not require an additional setup decision.
+
+Preserve all agreed method behavior and safeguards while improving the reading
+flow. Fresh model reviews can support a revision, but they do not establish the
+owner's acceptance of its readability.

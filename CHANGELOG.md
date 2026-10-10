@@ -16,6 +16,10 @@ For lasting decisions and their rationale, see the
   evidence from outside the collection and judgment about worthwhile effort.
 - Allow progress through large or nested collections without a complete map;
   distinguish order among discovered items from required collection-wide order.
+- Use the collection's existing order by default and explain included items
+  and container contents in plain language.
+- Use consistent method terminology in shared rules, clearly label concrete
+  examples, and organize the instructions around an easier reading path.
 - Preserve approval, verified handling, recovery, follow-up acceptance and
   honest reporting of coverage.
 
