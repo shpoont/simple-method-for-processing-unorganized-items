@@ -4,6 +4,26 @@ Versioned summaries of changes to the method and repository maintenance.
 For lasting decisions and their rationale, see the
 [decision log](docs/decision-log.md).
 
+## v1.1.0 — unreleased
+
+- Distinguish the collection, current scope and action targets with practical
+  examples, including multiple actions within one scope.
+- Explain candidate discovery and membership assessment, with examples of
+  searching, exploring, comparing and seeking context.
+- Prefer scopes that support one appropriate shared action while preserving
+  dependencies, known exceptions and flexible final decisions.
+- Explain how investigation supports both membership and handling, including
+  evidence from outside the collection and judgment about worthwhile effort.
+- Allow progress through large or nested collections without a complete map;
+  distinguish order among discovered items from required collection-wide order.
+- Use the collection's existing order by default and explain included items
+  and container contents in plain language.
+- Define the method's terms in a terminology section, use them consistently
+  in shared rules, clearly label concrete examples, and organize the
+  instructions around an easier reading path.
+- Preserve approval, verified handling, recovery, follow-up acceptance and
+  honest reporting of coverage.
+
 ## Repository maintenance — 2026-10-09
 
 - Add a README with navigation, author attribution, feedback guidance and
