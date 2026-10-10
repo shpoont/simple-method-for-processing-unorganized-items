@@ -3,11 +3,25 @@
 Work through a collection one item or group at a time: choose the scope, decide
 what to do, act and check, then continue.
 
+## Terminology
+
+| Term | Meaning |
+| --- | --- |
+| **Item** | A thing you can handle on its own or as part of a group. |
+| **Container** | Something that contains other items and may itself be an item. |
+| **Collection** | The items eligible for this work, within a defined boundary. |
+| **Scope** | The item or group from the collection whose handling you will decide together. |
+| **Handling decision** | An authorized choice of what should happen, to which items, under which conditions, and what would count as success. |
+| **Action** | A step carried out to gather information or change something. |
+| **Action targets** | The items an action is directed at, including items examined or changed. |
+| **Results** | The actual effects or findings of an action, including any uncertainty. |
+| **Processed** | An item or group whose chosen handling has been achieved and verified. |
+
 ## Before you start
 
-Choose the **collection**—the items eligible for this work—and the purpose and
-work limit. Say which items belong to the collection and which contents of
-containers are included, including how far into nested containers you will work.
+Choose the collection, purpose and work limit. Say which items belong to the
+collection and which contents of containers are included, including how far into
+nested containers you will work.
 A boundary can be a rule; you can start without a complete list, map or
 inspection. Exclude later arrivals unless you explicitly include them.
 
@@ -25,9 +39,8 @@ newest in the collection; do not silently substitute one for the other.
 
 ## Choose the scope
 
-Pick the first unprocessed item in the order or view you are using. Skip blocked
-items while keeping track of them. This starts the **scope**: the item or group
-whose handling you will decide together.
+Start the scope with the first unprocessed item in the order or view you are
+using. Skip blocked items while keeping track of them.
 
 One item is enough. You may expand the scope to a group, including the whole
 collection. It may include a container, selected contents, or both. Other members
@@ -88,16 +101,16 @@ same scope. This decision does not itself require splitting or restarting.
 
 ## Act and check
 
-Specify each **action** and its **action targets**: what will be done and which
-items it will affect. Targets may cover all or part of the scope and may overlap
-across actions. Make effects on a container's contents explicit.
+For each action, specify what you will do and the action targets. Targets may
+cover all or part of the scope and may overlap across actions. Make effects on
+a container's contents explicit.
 
 When approval is required, show the final actions, targets, effects and conditions
 and obtain approval before execution, individually or as a set. Approval must
 cover the actions actually being taken.
 
-Act within your authority while the decision's conditions hold. Compare
-**results**—actual effects or findings, including uncertainty—with the decision.
+Act within your authority while the decision's conditions hold. Compare results,
+including any uncertainty, with the decision.
 Revisit the scope or decision if material information changes. Keep decisions,
 results and unfinished work recoverable as you go.
 

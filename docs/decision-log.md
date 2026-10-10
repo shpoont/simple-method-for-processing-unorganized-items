@@ -98,6 +98,12 @@ guidance. Keep useful examples that show possible activities and decisions.
 Explain collection membership and included container contents in plain language.
 Using an existing order should not require an additional setup decision.
 
+Define the established terms in a short terminology section before the
+procedure, so readers can find their meanings in one place. Explain item,
+container, collection, scope, handling decision, action, action targets, results
+and processed. Keep the steps focused on what to do, with the same meanings
+throughout.
+
 Preserve all agreed method behavior and safeguards while improving the reading
 flow. Fresh model reviews can support a revision, but they do not establish the
 owner's acceptance of its readability.
