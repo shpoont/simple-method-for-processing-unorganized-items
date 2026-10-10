@@ -19,66 +19,54 @@ what to do, act and check, then continue.
 
 ## Before you start
 
-Choose the collection, purpose and work limit. Say which items belong to the
-collection and which contents of containers are included, including how far into
-nested containers you will work.
-A boundary can be a rule; you can start without a complete list, map or
-inspection. Exclude later arrivals unless you explicitly include them.
+Choose the collection, purpose and work limit. Define eligible items and included
+container contents, including how far into nested containers the work extends.
+A boundary can be a rule; no complete list, map or inspection is needed to start.
+Exclude later arrivals unless explicitly included.
 
-**Example:** The collection could be files already in a Downloads folder and all
-its subfolders. That rule defines the boundary without listing every file first.
+**Example:** Files already in Downloads and all its subfolders can be a collection.
+This boundary includes nested contents without listing every file.
 
-Use the collection's existing order or current view by default. Specify another
-order only when the purpose needs it. If no order is available, choose a useful
-one. You can begin with discovered items; say when you have not found them all.
+Use the existing order or current view by default. Choose another only when the
+purpose needs it, or a useful one if none exists. Discovered eligible items suffice
+by default; make incomplete discovery clear.
 
-If precise ordering matters, resolve the relevant ties and selection across
-included levels. A strict order across the entire collection needs adequate
-evidence, such as a reliable sorted view. The newest item found may not be the
-newest in the collection; do not silently substitute one for the other.
+When precise ordering matters, resolve relevant ties and selection across included
+levels. A required whole-collection order needs adequate evidence, such as a
+reliable sorted view. The newest item found may not be globally newest.
 
 ## Choose the scope
 
-Start the scope with the first unprocessed item in the order or view you are
-using. Skip blocked items while keeping track of them.
+Start the scope with the first unprocessed item in that order or view, skipping
+blocked items while keeping them tracked.
 
-One item is enough. You may expand the scope to a group, including the whole
-collection. It may include a container, selected contents, or both. Other members
-need not share the starting item's age or position in the order, provided their
-handling preserves any required processing sequence.
+One item is enough. You may expand the scope to a group, even the whole collection,
+including a container, selected contents or both. Additional members need not
+share the starting item's age or position, but preserve any required selection
+order and actual processing sequence.
 
-If expanding the scope would help, find candidates by browsing, searching,
-comparing contents, following references or asking for context. Confirm which
-items belong by their relationship to the purpose, the evidence for that
-relationship and any exceptions. Treat similarities and search results as
-candidates unless they provide enough evidence to confirm membership. Leave
-uncertain membership pending. Keep outside material as context; changing it
-needs separate authority.
+When expanding would help, find candidates by browsing, searching, comparing,
+following references or asking for context. Confirm membership from the purpose,
+evidence and exceptions. Similarity alone is insufficient, though reliable search
+evidence may suffice. Keep uncertain membership pending. Outside material can
+inform the decision, but changing it needs separate authority.
 
-**Example:** Searching a large collection of nested folders may find a scope of
-three related files. A reference library may help assess them while remaining
-outside the scope.
+Prefer **one appropriate shared handling action** as you refine the scope. Let it
+guide grouping provisionally, without distorting the evidence. Keep items together
+when joint consideration or a shared result matters, even if several actions are
+needed. Split only when that helps while preserving dependencies and without
+adding disproportionate work. One item may need several actions; supporting
+searches and checks do not count against this preference.
 
-When refining the scope, prefer **one appropriate shared handling action**. Let
-that provisional action help shape the grouping, without making the evidence fit
-it. A smaller scope may help if splitting preserves dependencies and adds no
-disproportionate work. Keep items together when joint consideration or a shared
-result matters, even if the final decision needs several actions. One item may
-also need several actions. Supporting searches and checks do not count against
-this preference.
+You may gather evidence for membership or handling when useful; existing evidence
+may suffice. Weigh expected improvement and reuse in later work against time and
+resources, taking error consequences and what is already known into account.
+Item count alone does not determine effort.
 
-**Example:** Related booking emails may form a scope because archiving them
-together appears appropriate. Further evidence or the final decision can change
-their handling.
-
-You may inspect items or gather context when useful for membership or handling.
-Existing evidence may suffice. Weigh the expected improvement against time and
-resource costs, the consequences of error, what is already known and usefulness
-for later work. Item count alone does not determine the effort.
-
-**Example:** A quick reference search may settle a grouping question. A costly
-comparison may be worthwhile before deleting a file that could be unique, or
-when the findings will help with later items.
+**Example:** Search may identify three related files in Downloads that could be
+archived together. An outside reference library may settle their relationship.
+A costly comparison may be worthwhile before deleting a possibly unique version,
+or if its findings will help with later items.
 
 ## Decide what to do
 
@@ -88,60 +76,65 @@ Make or obtain an authorized **handling decision** that answers:
 - What conditions must hold?
 - What results would satisfy the decision?
 
-Existing authorized policy may supply the decision. You may show the scope's
-items and relevant context separately if that helps.
+Existing authorized policy may supply the decision. A separate view of the scope's
+items and context is optional.
 
-When a recommendation is useful, make the proposed action clear and show known
-exceptions and necessary combinations. The final decision may change the
-recommendation or use several actions on different parts of the same scope.
+Recommendations are optional. When useful, prefer one appropriate recommended
+handling action, showing known exceptions and necessary combinations from the
+outset. Several recommended or final actions may be warranted, including for
+different or overlapping targets within one scope.
 
-**Example:** For a scope of 20 booking emails, the final decision could be to
-delete 15 and archive five. These are different **action targets** within the
-same scope. This decision does not itself require splitting or restarting.
+**Example:** A scope of 20 booking emails may be recommended for archiving, but the
+final decision may delete 15 and archive five. That change does not require
+splitting or restarting.
 
 ## Act and check
 
-For each action, specify what you will do and the action targets. Targets may
-cover all or part of the scope and may overlap across actions. Make effects on
-a container's contents explicit.
+Specify each action and its targets, including effects on container contents.
+Targets can cover all or part of the scope and overlap between actions.
 
-When approval is required, show the final actions, targets, effects and conditions
-and obtain approval before execution, individually or as a set. Approval must
-cover the actions actually being taken.
+When approval is required, show the actual final actions, targets, effects and
+conditions and obtain approval before execution, individually or as a set.
 
-Act within your authority while the decision's conditions hold. Compare results,
-including any uncertainty, with the decision.
-Revisit the scope or decision if material information changes. Keep decisions,
-results and unfinished work recoverable as you go.
+Act within your authority while the decision's conditions hold. Compare the results
+with the decision; revisit the scope or decision on material change. Keep decisions,
+results and unfinished work recoverable.
+Unfinished items must remain accessible even after an action moves them outside
+the original view.
 
-If an action is uncertain, find out what actually happened before retrying; reuse
-confirmed successes. If blocked, continue only with independent work or an
-authorized next step.
+Resolve uncertainty about what happened before retrying, and reuse confirmed
+successes. If blocked, proceed only with independent work or an authorized next
+step.
 
-Mark an item or group **processed** when its chosen handling is achieved and
-verified from evidence. A summary or deliberately leaving items unchanged can
-satisfy the decision when checked. Keep handling that depends on a shared result
-unfinished until that result is confirmed.
+Mark an item **processed** only when evidence verifies that its chosen handling
+was achieved. A scope or group is processed only when this covers every member.
+Members left out of the decision or with unfinished handling remain unprocessed.
+A checked summary or deliberate non-action can satisfy a decision. Keep handling
+that depends on a shared result unfinished until that result is confirmed.
 
-Count included contents as processed only when the decision for them has been
-fulfilled and checked. One action on a container can suffice if it achieves that
-result for all included contents. Handling the container does not establish that
-each item was individually inspected.
+Collective evidence, including a verified container action, can suffice without
+enumerating or inspecting each member. Container contents count only when their
+chosen handling is fulfilled and checked; one action can suffice for all included
+contents. Handling the container does not establish individual inspection.
 
-If arranging follow-up is the chosen handling, specify the next action, who is
-responsible, where the information is accessible and how the work will reliably
-be picked up or reconsidered. Confirm that the receiving workflow accepts this
-kind of work and preserves the information and conditions needed to continue.
-Existing intake arrangements may suffice; recording an entry alone does not
-complete processing.
+**Example:** Verifying the 15 deletions leaves five booking emails unprocessed and
+the scope of 20 unfinished until their archiving is verified.
+
+If arranging follow-up is the chosen handling, specify the next action,
+responsibility, accessible information and reliable pickup or reconsideration.
+Confirm that the receiving workflow accepts this work and preserves the information
+and conditions needed to continue. Existing intake can suffice; a recorded note
+alone does not complete processing.
 
 ## Continue or stop
 
-Return to the next unprocessed item. Stop when all items are processed, the work
-limit is reached or no authorized work can proceed.
+Return to the next unprocessed item. An empty current view does not establish
+completion: unless evidence already confirms it, continue finding eligible items
+within the defined boundary while the work limit allows and authorized work can
+proceed. Stop when all included items are processed, the work limit is reached or
+no authorized work can proceed.
 
-Report the collection boundary, coverage, processed items and unfinished or shared
-obligations. Zero unprocessed items means none remain within the defined
-collection. Processed items may still be present, items may exist outside that
-boundary and follow-up work may remain unfinished. Claim zero for the whole
-collection only when evidence confirms that all included items are processed.
+Report the boundary, coverage, processed items and unfinished or shared obligations.
+Claim zero unprocessed for the whole collection only when evidence covers every
+included member and confirms their handling. Processed items may remain present;
+items outside the boundary or downstream follow-up may remain unfinished.

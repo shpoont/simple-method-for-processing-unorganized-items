@@ -107,3 +107,33 @@ throughout.
 Preserve all agreed method behavior and safeguards while improving the reading
 flow. Fresh model reviews can support a revision, but they do not establish the
 owner's acceptance of its readability.
+
+## D07 — 2026-10-10: Clarify continuation and completion for the final candidate
+
+**Status: proposed for v1.1.0.** The owner requested a final revision using the
+external feedback and another iteration of subagents before version release.
+This prepares the existing PR's final candidate; it does not publish a release.
+
+An empty current view does not establish completion of the defined collection.
+Continue discovery within the boundary and work limit when authorized work can
+proceed, unless evidence already establishes completion. Keep unfinished items
+accessible and recoverable when actions change their location or remove them
+from the view.
+No traversal algorithm or complete inventory is required.
+
+A scope is processed only when verified chosen handling covers every member.
+Successful handling of a subset completes that subset; omitted or unfinished
+members stay unprocessed. Evidence can cover a group or container collectively,
+without individual inspection or enumeration. Verified summaries, deliberate
+non-action and accepted follow-up arrangements remain valid handling.
+
+When a recommendation is useful, prefer one appropriate handling action. Keep
+recommendations optional and show known exceptions and necessary combinations.
+The preference does not limit justified recommendations or final decisions to
+one action, require splitting, or replace action-directed scope refinement.
+
+Trim repetition and consolidate illustrations where it helps readers follow the
+procedure. Retain the requested terminology section and useful examples, with
+concrete source terms explicitly labeled. Clarity and practical usefulness take
+priority over a fixed word count. Record fresh reviews and the final snapshot;
+retain earlier reviews as historical evidence rather than tests of new text.
