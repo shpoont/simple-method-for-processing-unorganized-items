@@ -48,7 +48,8 @@ the method itself is unchanged.
 
 ## D05 — 2026-10-10: Make scope refinement and handling more practical
 
-**Status: proposed for v1.1.0.** The owner agreed the direction discussed in
+**Status: adopted for v1.1.0 on 2026-10-11.** The owner agreed the direction
+discussed in
 [issue #1](https://github.com/shpoont/simple-method-for-processing-unorganized-items/issues/1)
 and requested a method revision on a branch and PR, using a team of subagents.
 This revision changes the method; the published v1.0.0 baseline remains fixed.
@@ -86,8 +87,9 @@ They do not establish its practical effectiveness in real use.
 
 ## D06 — 2026-10-10: Make the reading path and examples explicit
 
-**Status: proposed for v1.1.0.** A compact document can still be difficult to
-follow when instructions, explanations, examples and exceptions are interwoven.
+**Status: adopted for v1.1.0 on 2026-10-11.** A compact document can still be
+difficult to follow when instructions, explanations, examples and exceptions are
+interwoven.
 Give each step a clear practical instruction and keep the existing procedure
 visible. Make defaults and optional choices easy to recognize, with conditions
 placed beside the instruction they qualify.
@@ -110,9 +112,10 @@ owner's acceptance of its readability.
 
 ## D07 — 2026-10-10: Clarify continuation and completion for the final candidate
 
-**Status: proposed for v1.1.0.** The owner requested a final revision using the
-external feedback and another iteration of subagents before version release.
-This prepares the existing PR's final candidate; it does not publish a release.
+**Status: adopted for v1.1.0 on 2026-10-11.** The owner requested a final revision
+using the external feedback and another iteration of subagents before version
+release. The final candidate was prepared on the existing PR. The owner accepted
+it and requested release on 2026-10-11.
 
 An empty current view does not establish completion of the defined collection.
 Continue discovery within the boundary and work limit when authorized work can

@@ -4,7 +4,9 @@ Versioned summaries of changes to the method and repository maintenance.
 For lasting decisions and their rationale, see the
 [decision log](docs/decision-log.md).
 
-## v1.1.0 — unreleased
+## [v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.1.0)
+
+Released on 2026-10-11.
 
 - Distinguish the collection, current scope and action targets with practical
   examples, including multiple actions within one scope.
