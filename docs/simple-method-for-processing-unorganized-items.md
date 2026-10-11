@@ -3,12 +3,6 @@
 Work through a collection one item or group at a time: choose the scope, decide
 what to do, act and check, then continue.
 
-Use this shared method directly or specialize it for a domain, purpose or
-recurring situation. Specialized methods define suitable handling and evidence;
-implementations carry out those choices through people, agents, tools or software.
-Both preserve the shared meanings and responsibilities. These roles can be
-combined; simple work needs no separate specialization document.
-
 ## Terminology
 
 | Term | Meaning |
@@ -76,8 +70,7 @@ or if its findings will help with later items.
 
 ## Decide what to do
 
-Make or obtain an authorized **handling decision** that serves the purpose and
-answers:
+Make or obtain an authorized **handling decision** that answers:
 
 - What should happen, and to which targets?
 - What conditions must hold?
@@ -99,24 +92,19 @@ splitting or restarting.
 
 Specify each action and its targets, including effects on container contents.
 Targets can cover all or part of the scope and overlap between actions.
-A scope may be handled in parts, preserving required order and dependencies.
 
 When approval is required, show the actual final actions, targets, effects and
 conditions and obtain approval before execution, individually or as a set.
 
 Act within your authority while the decision's conditions hold. Compare the results
-with the decision; revisit the scope or decision on material change.
-
-Reconsider affected work, including processed items, when new information calls
-earlier handling into question. Retain results that remain valid.
-
-Keep decisions, results and unfinished work recoverable.
+with the decision; revisit the scope or decision on material change. Keep decisions,
+results and unfinished work recoverable.
 Unfinished items must remain accessible even after an action moves them outside
 the original view.
 
-Retry when safe; resolve uncertainty about the previous attempt when needed.
-Reuse confirmed successes that still apply. If blocked, proceed only with
-independent work or an authorized next step.
+Resolve uncertainty about what happened before retrying, and reuse confirmed
+successes. If blocked, proceed only with independent work or an authorized next
+step.
 
 Mark an item **processed** only when evidence verifies that its chosen handling
 was achieved. A scope or group is processed only when this covers every member.
@@ -147,8 +135,6 @@ proceed. Stop when all included items are processed, the work limit is reached o
 no authorized work can proceed.
 
 Report the boundary, coverage, processed items and unfinished or shared obligations.
-Claim that the purpose was achieved only when adequate evidence supports the
-required results.
 Claim zero unprocessed for the whole collection only when evidence covers every
 included member and confirms their handling. Processed items may remain present;
 items outside the boundary or downstream follow-up may remain unfinished.

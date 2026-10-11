@@ -9,7 +9,7 @@ Author: **Leon.id Komarovsky** — [leonid@komarovsky.info](mailto:leonid@komaro
 ## Documents
 
 - [Method](docs/simple-method-for-processing-unorganized-items.md) — the current
-  working text for the next revision; changes since v1.1.0 are unreleased.
+  method, released as v1.1.0.
 - [Decision log](docs/decision-log.md) — lasting decisions and their rationale.
   The method document contains the guidance to use.
 - [Changelog](CHANGELOG.md) — summaries of changes by version and repository
