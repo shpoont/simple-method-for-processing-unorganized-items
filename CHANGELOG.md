@@ -4,6 +4,33 @@ Versioned summaries of changes to the method and repository maintenance.
 For lasting decisions and their rationale, see the
 [decision log](docs/decision-log.md).
 
+## [v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.1.0)
+
+Released on 2026-10-11.
+
+- Distinguish the collection, current scope and action targets with practical
+  examples, including multiple actions within one scope.
+- Explain candidate discovery and membership assessment, with examples of
+  searching, exploring, comparing and seeking context.
+- Prefer scopes and useful recommendations centered on one appropriate handling
+  action while preserving dependencies, known exceptions, necessary combinations
+  and flexible final decisions.
+- Explain how investigation supports both membership and handling, including
+  evidence from outside the collection and judgment about worthwhile effort.
+- Allow progress through large or nested collections without a complete map;
+  distinguish order among discovered items from required collection-wide order.
+- Use the collection's existing order by default and explain included items
+  and container contents in plain language.
+- Define the method's terms in a terminology section, use them consistently
+  in shared rules, clearly label concrete examples, and organize the
+  instructions around an easier reading path.
+- Explain continued discovery when the current view runs out and keep
+  unfinished items accessible and recoverable when actions change their location.
+- Require verified handling covering every member before a scope is processed;
+  omitted or unfinished members remain unprocessed.
+- Preserve approval, verified handling, recovery, follow-up acceptance and
+  honest reporting of coverage.
+
 ## Repository maintenance — 2026-10-09
 
 - Add a README with navigation, author attribution, feedback guidance and
