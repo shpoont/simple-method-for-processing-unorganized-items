@@ -140,3 +140,42 @@ procedure. Retain the requested terminology section and useful examples, with
 concrete source terms explicitly labeled. Clarity and practical usefulness take
 priority over a fixed word count. Record fresh reviews and the final snapshot;
 retain earlier reviews as historical evidence rather than tests of new text.
+
+## D08 — 2026-10-11: Prepare focused clarifications for the next revision
+
+**Status: proposed for the next revision.** The owner agreed the direction
+discussed in
+[issue #3](https://github.com/shpoont/simple-method-for-processing-unorganized-items/issues/3)
+and requested a candidate on a branch and PR. The direction is agreed; final
+method wording and a new release remain subject to review.
+
+Keep the revision small. Briefly explain the shared method's meanings and
+responsibilities, specialized handling and evidence for a domain, purpose or
+recurring situation, and implementations that carry out those choices. These
+roles may be combined, and direct simple use needs no separate specialization
+document.
+
+Replace the blanket requirement to resolve the previous outcome before every
+retry with safe repetition and resolution where needed. Retain applicable
+authority, conditions, verification and results that still apply.
+
+Connect handling decisions to the purpose and require adequate evidence for
+claims that its required results were achieved. Reconsider affected work,
+including processed items, when relevant new information calls earlier handling
+into question; retain results that remain valid. This does not require permanent
+monitoring or erase valid historical results.
+
+Make execution in parts explicit without adding another glossary term.
+Preserve required order, dependencies, shared-result checks and verified chosen
+handling for every included member before whole-scope completion.
+
+Retain existing effort and reuse guidance, provisional single-action preferences,
+ordering defaults and exceptions, authority, targets, conditions, effects,
+accepted follow-up and accessible unfinished work. Detailed identity, traversal,
+cost and tool strategies mainly belong in specialized methods and implementations.
+Broader assurance policy, an additional stopping rule and a companion guide are
+deferred unless a concrete need or gap appears.
+
+The candidate does not change published baselines or establish practical
+effectiveness. Its clarity and consistency can be reviewed before adoption;
+evidence of benefit in actual use remains separate.
