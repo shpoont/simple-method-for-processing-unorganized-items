@@ -4,6 +4,26 @@ Versioned summaries of changes to the method and repository maintenance.
 For lasting decisions and their rationale, see the
 [decision log](docs/decision-log.md).
 
+## Unreleased
+
+Candidate changes following the discussion in
+[issue #3](https://github.com/shpoont/simple-method-for-processing-unorganized-items/issues/3).
+The final wording remains subject to review; no new method version is released.
+
+- Briefly explain the shared method, specialized methods and implementations,
+  preserving direct use without separate specialization documents.
+- Allow safe retries under uncertainty while resolving the previous outcome
+  where needed and reusing confirmed results that still apply.
+- Connect handling decisions and claims of achieved purpose to the intended
+  results and adequate evidence.
+- Reconsider affected processed work when new information calls earlier
+  handling into question, retaining results that remain valid.
+- Make handling a scope in parts explicit while preserving required order,
+  dependencies and verified completion for every included member.
+
+Broader assurance policy, an additional stopping rule and a companion guide
+remain deferred. The published v1.1.0 and v1.0.0 baselines remain fixed.
+
 ## [v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.1.0)
 
 Released on 2026-10-11.
