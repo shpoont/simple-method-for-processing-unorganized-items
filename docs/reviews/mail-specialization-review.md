@@ -2,9 +2,10 @@
 
 Date: 12 October 2026.
 
-Status: owner-accepted first version, prepared for publication through a branch
-and PR. Inclusion on main awaits merge. Organizers dependency adoption, skill
-implementation and actual operations remain separate work requiring authority.
+Status: owner-accepted Mail v1.0.0 candidate, prepared for publication through a
+branch and PR. Inclusion on main and tagged release remain pending. Organizers
+dependency adoption, skill implementation and actual operations remain separate
+work requiring authority.
 
 ## Governing method and publication candidate
 
@@ -13,9 +14,9 @@ The Mail specialization follows shared method v1.2.0 at commit
 Its SHA-256 is
 `7cbd280c52325c9ffdac563b54b3a0a457ab2bf7f5237d3777f701b237006440`.
 
-The publication candidate is [Mail Processing](../specialized-methods/mail.md),
-982 words. Its SHA-256 is
-`8815c7ff638e55c1bd7dd8b054c295500ac87aa70463f6f570df3312741ee6fd`.
+The publication candidate is [Mail Processing v1.0.0](../specialized-methods/mail.md),
+983 words. Its SHA-256 is
+`1842d5f1e815990f930cb0799282642352d009f6c7eecdb318a4549f13a452ff`.
 
 ## Agreed requirements
 
@@ -25,6 +26,9 @@ The publication candidate is [Mail Processing](../specialized-methods/mail.md),
   features where used, including what a label-based selection criterion means.
 - Follow the main method's rules. Raise logical conflicts for consideration of
   a main-method change rather than introduce an overriding specialization rule.
+- Version the shared method and each specialization independently. Declare both
+  the specialization's version and its exact governing shared version; link to
+  the fixed shared release and review compatibility before adopting another.
 - This repository owns canonical specialized methods. Organizers owns their
   corresponding skills, provider integration and implementation checks.
   Skills bundle deliberately approved method revisions with source path,
@@ -160,15 +164,35 @@ effectiveness, provider capabilities or installed implementation behavior.
 ## Owner acceptance and publication preparation
 
 After the reviews and focused rechecks passed, the owner authorized proceeding
-with the branch and PR. Remove the draft-status marker for publication; the
-remaining Mail text is byte-for-byte identical to the reviewed snapshot. That
-metadata removal accounts for the change from 990 to 982 words and the current
-candidate hash above.
+with the branch and PR. At that stage, removing only the draft-status marker
+produced a 982-word candidate; the remaining text was byte-for-byte identical to
+the reviewed snapshot. Its SHA-256 was
+`8815c7ff638e55c1bd7dd8b054c295500ac87aa70463f6f570df3312741ee6fd`.
 
 The README, specialized-method index, changelog and D09 record this first Mail
 specialization and its governing shared method. The shared method stays at
 v1.2.0, byte-for-byte unchanged. No published tag is changed or new shared-method
 release implied. The merged commit will provide a fixed Mail source revision.
+
+## Independent versioning update
+
+The owner subsequently agreed to independent specialization versions and
+requested a PR update, repository `AGENTS.md` instructions and supporting notes.
+Declare Mail v1.0.0 and replace its relative shared-method reference with a link
+to the fixed v1.2.0 document. These are the only changes to the Mail candidate;
+its handling guidance and the shared-method bytes are preserved. The current
+candidate's 983-word count and hash are recorded above.
+
+The README describes namespaced specialization tags and version-change criteria.
+The index and changelog identify Mail as a release candidate, D10 records the
+decision, and `AGENTS.md` gives maintenance instructions. Publication will use
+`mail/v1.0.0`; no tag is created by this PR update.
+
+Focused checks confirmed the exact metadata-only Mail change, the preserved
+shared method, the fixed dependency target and consistent version declarations.
+All 23 relative Markdown links resolve, and whitespace checks pass. The earlier
+reviews remain evidence for the preserved handling text; no new Pro or subagent
+review is implied.
 
 ## Written consistency checks
 

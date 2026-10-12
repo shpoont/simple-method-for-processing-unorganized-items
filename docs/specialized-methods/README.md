@@ -6,21 +6,27 @@ evidence while following the shared method's rules. If a logical conflict arises
 raise it for consideration of a shared-method change rather than introduce an
 exception in the specialization. Adoption and changes require the owner's approval.
 
-Each specialization identifies its governing shared-method version. Briefly
-repeat essential guidance where it helps the reader follow the domain workflow;
-the shared method remains authoritative for general rules.
+Each specialization declares its own independent version and its exact governing
+shared-method version, linking to that released shared document. A new shared
+release prompts compatibility review before deliberate adoption; existing
+specialization releases keep their declared dependency. See the repository's
+[versioning convention](../../README.md#versioning).
+
+Briefly repeat essential guidance where it helps the reader follow the domain
+workflow; the shared method remains authoritative for general rules.
 
 This repository maintains the canonical specialized methods. Implementations
 carry out their choices through people, agents, tools or software. The Organizers
 project owns the corresponding skills, platform integration and implementation
 checks. Each skill bundles deliberately approved copies of both the specialization
-and its governing shared-method version. Record the source path, revision and
-content hash for each. A combined reading copy may be assembled from these sources
-for convenient use.
+and its governing shared-method version. Record the source path, method version,
+release tag or commit, and content hash for each. A combined reading copy may be
+assembled from these sources for convenient use.
 
 ## Methods
 
-- [Mail](mail.md) — first version, based on shared method v1.2.0.
+- [Mail](mail.md) — v1.0.0 release candidate, based on shared method v1.2.0.
+  Its planned release tag is `mail/v1.0.0`; publication remains pending.
   Covers chosen email collections, with inbox processing as the main example.
   See the [review record](../reviews/mail-specialization-review.md) for Pro's
   assessments, fresh subagent reviews, editorial clarifications and remaining

@@ -4,7 +4,7 @@ Versioned summaries of changes to the method and repository maintenance.
 For lasting decisions and their rationale, see the
 [decision log](docs/decision-log.md).
 
-## Unreleased — First Mail specialization
+## Unreleased — Mail v1.0.0
 
 Prepared for publication on 2026-10-12 after the owner accepted the reviewed
 Mail recommendation and requested a branch and PR.
@@ -15,13 +15,17 @@ Mail recommendation and requested a branch and PR.
   responses, relevant preferences and continuity between processing rounds.
 - Establish canonical specialized methods in `docs/specialized-methods/`.
   Organizers implements the corresponding skills and bundles approved copies of
-  each specialization and its governing shared method with provenance and hashes.
+  each specialization and its governing shared method with versions, provenance
+  and hashes.
+- Version each specialization independently of the shared method. Declare Mail
+  v1.0.0 against the fixed shared v1.2.0 document, document the release convention,
+  and add repository `AGENTS.md` guidance for maintaining versions and evidence.
 - Record two Pro consultations, three fresh independent reviews, seven paper
   walkthroughs and focused rechecks with no material findings.
 
-The shared method remains v1.2.0, unchanged. This addition does not create a new
-shared-method version or adopt an implementation. The merged commit will provide
-a fixed source revision for the first Mail specialization.
+The shared method remains v1.2.0, unchanged. Mail v1.0.0 will use the independent
+tag `mail/v1.0.0` when released. Merge and release remain pending; this addition
+does not create a new shared-method version or adopt an implementation.
 
 ## [v1.2.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.2.0)
 

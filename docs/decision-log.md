@@ -230,7 +230,8 @@ Maintain canonical specializations in `docs/specialized-methods/`. Each identifi
 its governing shared-method version and follows all that method's rules. A
 logical conflict should prompt consideration of a shared-method change rather
 than an overriding specialization rule. The shared method remains v1.2.0,
-unchanged; a fixed merged commit identifies this first Mail specialization.
+unchanged; Mail's own release tag and a fixed commit will identify this first
+specialization under the subsequent versioning agreement in D10.
 
 Inbox processing toward inbox zero is the main Mail example. Filtered sets and
 other chosen collections remain supported. Distinguish common handling from
@@ -256,3 +257,33 @@ Work Items. The [Mail review record](reviews/mail-specialization-review.md)
 documents the consultations, reviews and paper cases. They support written
 clarity and consistency; practical usefulness and installed behavior remain to
 be established through implementation and use.
+
+## D10 — 2026-10-12: Version each specialization independently
+
+**Status: owner-approved; repository guidance prepared in this PR.** The owner
+agreed to independent versions for the shared method and each specialization,
+then requested the PR update and durable `AGENTS.md` instructions.
+
+Methods can evolve and be adopted at different rates. An improvement to Mail
+does not require a new shared-method or unrelated specialization version. Do not
+add another global version for the collection. Retain existing `vX.Y.Z` tags for
+shared-method releases and use namespaced tags such as `mail/v1.0.0` for
+specializations. Release titles and notes identify the affected method, even
+though the tag captures a repository snapshot.
+
+Each specialization declares its own version and its exact governing shared
+version, linking to the fixed released document. Review affected specializations
+when the shared method changes. Adoption is deliberate and produces a new
+specialization version; it does not silently change existing releases or require
+matching version numbers. Specializations continue to follow their governing
+shared rules, and implementations pin approved versions of both documents.
+
+Record the concise version-change criteria in the [README](../README.md#versioning)
+and maintenance instructions in [AGENTS.md](../AGENTS.md). Keep published tags
+fixed and distinguish method changes from repository maintenance. Preserve
+historical review evidence while recording the current candidate's metadata.
+
+The first Mail candidate is v1.0.0, governing shared v1.2.0. Its pending release
+will use `mail/v1.0.0`. This PR adds the version declaration and fixed dependency
+link without changing Mail handling guidance or the shared-method contents.
+Merge, tagged publication and implementation adoption remain separate actions.
