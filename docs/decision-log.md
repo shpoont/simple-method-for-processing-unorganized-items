@@ -221,16 +221,17 @@ actual use.
 
 ## D09 — 2026-10-12: Prepare the first canonical Mail specialization
 
-**Status: accepted for publication; inclusion on main awaits PR merge.** The
-owner accepted the reviewed Mail recommendation, requested fresh readability,
+**Status: adopted for Mail v1.0.0 on 2026-10-12.** The owner accepted the reviewed
+Mail recommendation, requested fresh readability,
 practical walkthrough and consistency reviews, then authorized a branch and PR
-after those reviews and focused rechecks passed.
+after those reviews and focused rechecks passed. The owner subsequently
+authorized merge and publication under the independent release scheme.
 
 Maintain canonical specializations in `docs/specialized-methods/`. Each identifies
 its governing shared-method version and follows all that method's rules. A
 logical conflict should prompt consideration of a shared-method change rather
 than an overriding specialization rule. The shared method remains v1.2.0,
-unchanged; Mail's own release tag and a fixed commit will identify this first
+unchanged; Mail's own release tag and a fixed commit identify this first
 specialization under the subsequent versioning agreement in D10.
 
 Inbox processing toward inbox zero is the main Mail example. Filtered sets and
@@ -260,9 +261,9 @@ be established through implementation and use.
 
 ## D10 — 2026-10-12: Version each specialization independently
 
-**Status: owner-approved; repository guidance prepared in this PR.** The owner
-agreed to independent versions for the shared method and each specialization,
-then requested the PR update and durable `AGENTS.md` instructions.
+**Status: adopted with Mail v1.0.0 on 2026-10-12.** The owner agreed to independent
+versions for the shared method and each specialization, requested the PR update
+and durable `AGENTS.md` instructions, then approved publication.
 
 Methods can evolve and be adopted at different rates. An improvement to Mail
 does not require a new shared-method or unrelated specialization version. Do not
@@ -270,6 +271,10 @@ add another global version for the collection. Retain existing `vX.Y.Z` tags for
 shared-method releases and use namespaced tags such as `mail/v1.0.0` for
 specializations. Release titles and notes identify the affected method, even
 though the tag captures a repository snapshot.
+
+Keep the shared-method release marked "Latest" on GitHub and give specialization
+releases explicit method titles. Multiple methods may be released from the same
+commit using their own tags; separate permanent branches are not required.
 
 Each specialization declares its own version and its exact governing shared
 version, linking to the fixed released document. Review affected specializations
@@ -283,7 +288,8 @@ and maintenance instructions in [AGENTS.md](../AGENTS.md). Keep published tags
 fixed and distinguish method changes from repository maintenance. Preserve
 historical review evidence while recording the current candidate's metadata.
 
-The first Mail candidate is v1.0.0, governing shared v1.2.0. Its pending release
-will use `mail/v1.0.0`. This PR adds the version declaration and fixed dependency
-link without changing Mail handling guidance or the shared-method contents.
-Merge, tagged publication and implementation adoption remain separate actions.
+The first Mail release is v1.0.0, governing shared v1.2.0, under `mail/v1.0.0`.
+The adopted revision adds the version declaration and fixed dependency link
+without changing Mail handling guidance or the shared-method contents.
+Method publication does not adopt an implementation or authorize actual mail
+operations.

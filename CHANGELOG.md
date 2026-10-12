@@ -4,10 +4,10 @@ Versioned summaries of changes to the method and repository maintenance.
 For lasting decisions and their rationale, see the
 [decision log](docs/decision-log.md).
 
-## Unreleased — Mail v1.0.0
+## [Mail v1.0.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/mail/v1.0.0)
 
-Prepared for publication on 2026-10-12 after the owner accepted the reviewed
-Mail recommendation and requested a branch and PR.
+Released on 2026-10-12 after the owner accepted the reviewed Mail recommendation,
+approved independent specialization versions and requested publication.
 
 - Add the first platform-independent Mail specialization, with Inbox processing
   as the main example and support for filtered and other chosen collections.
@@ -24,9 +24,10 @@ Mail recommendation and requested a branch and PR.
 - Record two Pro consultations, three fresh independent reviews, seven paper
   walkthroughs and focused rechecks with no material findings.
 
-The shared method remains v1.2.0, unchanged. Mail v1.0.0 will use the independent
-tag `mail/v1.0.0` when released. Merge and release remain pending; this addition
-does not create a new shared-method version or adopt an implementation.
+The shared method remains v1.2.0, unchanged. Mail v1.0.0 uses the independent tag
+`mail/v1.0.0`. The GitHub release identifies Mail explicitly and leaves the shared
+release marked "Latest". This addition does not create a new shared-method
+version or adopt an implementation.
 
 ## [v1.2.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.2.0)
 

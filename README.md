@@ -27,7 +27,8 @@ pin a released tag or commit.
 
 ## Specialized methods
 
-- [Mail processing](docs/specialized-methods/mail.md) — v1.0.0 release candidate,
+- [Mail processing](docs/specialized-methods/mail.md) —
+  [v1.0.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/mail/v1.0.0),
   based on shared method v1.2.0. Covers Inbox processing, filtered sets and other
   chosen email collections.
 
@@ -48,6 +49,10 @@ implementations to change. Adoption of another governing version requires a new
 specialization version; choose the increment by its effect, not by matching the
 shared version number. Published tags stay fixed. Repository maintenance alone
 does not require a method release.
+
+A release identifies the method being published and links to its fixed document.
+Its tag still captures the whole repository; other methods keep their declared
+versions. Keep the shared-method release marked "Latest" on GitHub.
 
 ## Feedback
 

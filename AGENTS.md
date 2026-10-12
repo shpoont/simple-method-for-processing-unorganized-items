@@ -31,6 +31,9 @@
   records together as applicable. Clearly distinguish a release candidate from
   a published release. Release titles and notes identify the method being
   released even though a Git tag captures the repository snapshot.
+- Keep the shared-method release marked "Latest" on GitHub. Create specialization
+  releases with an explicit method title and `--latest=false` so independently
+  versioned methods do not compete for that label.
 
 ## Editing and verification
 

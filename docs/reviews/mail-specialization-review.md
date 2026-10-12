@@ -2,21 +2,23 @@
 
 Date: 12 October 2026.
 
-Status: owner-accepted Mail v1.0.0 candidate, prepared for publication through a
-branch and PR. Inclusion on main and tagged release remain pending. Organizers
-dependency adoption, skill implementation and actual operations remain separate
-work requiring authority.
+Status: adopted for Mail v1.0.0 on 12 October 2026, after the owner approved
+publication through [PR #5](https://github.com/shpoont/simple-method-for-processing-unorganized-items/pull/5)
+and the independent tag `mail/v1.0.0`. Organizers dependency adoption, skill
+implementation and actual operations remain separate work requiring authority.
 
-## Governing method and publication candidate
+## Governing method and release document
 
 The Mail specialization follows shared method v1.2.0 at commit
 `7dfd40b5c24f41e40251724261ca4a495648096e`.
 Its SHA-256 is
 `7cbd280c52325c9ffdac563b54b3a0a457ab2bf7f5237d3777f701b237006440`.
 
-The publication candidate is [Mail Processing v1.0.0](../specialized-methods/mail.md),
+The release document is [Mail Processing v1.0.0](../specialized-methods/mail.md),
 983 words. Its SHA-256 is
 `1842d5f1e815990f930cb0799282642352d009f6c7eecdb318a4549f13a452ff`.
+Its fixed source is
+[the Mail v1.0.0 tag](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/mail/v1.0.0/docs/specialized-methods/mail.md).
 
 ## Agreed requirements
 
@@ -180,19 +182,32 @@ The owner subsequently agreed to independent specialization versions and
 requested a PR update, repository `AGENTS.md` instructions and supporting notes.
 Declare Mail v1.0.0 and replace its relative shared-method reference with a link
 to the fixed v1.2.0 document. These are the only changes to the Mail candidate;
-its handling guidance and the shared-method bytes are preserved. The current
-candidate's 983-word count and hash are recorded above.
+its handling guidance and the shared-method bytes are preserved. The 983-word
+document and hash recorded above are preserved for release.
 
 The README describes namespaced specialization tags and version-change criteria.
-The index and changelog identify Mail as a release candidate, D10 records the
-decision, and `AGENTS.md` gives maintenance instructions. Publication will use
-`mail/v1.0.0`; no tag is created by this PR update.
+At that stage, the index and changelog identified Mail as a release candidate,
+D10 recorded the decision, and `AGENTS.md` gave maintenance instructions.
+Publication was planned under `mail/v1.0.0`; that PR update did not create a tag.
 
 Focused checks confirmed the exact metadata-only Mail change, the preserved
 shared method, the fixed dependency target and consistent version declarations.
 All 23 relative Markdown links resolve, and whitespace checks pass. The earlier
 reviews remain evidence for the preserved handling text; no new Pro or subagent
 review is implied.
+
+## Release approval
+
+The owner accepted the independent release scheme and authorized publication.
+Finalize the README, index, changelog and decision statuses for Mail v1.0.0.
+Keep its method document and the governing shared method byte-for-byte unchanged,
+including the hashes above. The final navigation and metadata checks cover all
+24 relative Markdown links and the fixed shared dependency.
+
+Publish Mail with a signed `mail/v1.0.0` tag at the merged commit and an explicit
+Mail release title. The tag fixes the repository snapshot; the release identifies
+Mail as the newly published method. Shared v1.2.0 stays fixed and remains marked
+"Latest". Verify the published tag, release and document contents after publication.
 
 ## Written consistency checks
 
@@ -222,7 +237,7 @@ and examples within the existing loop.
 
 ## Remaining work
 
-Merge and publication remain pending. Organizers then considers adoption of the
-approved revision and corresponding implementation work. Practical usability,
-platform behavior and installed implementation checks remain to be established
-through that work.
+Organizers can consider adoption of the approved release and corresponding
+implementation work under separate authority. Practical usability, platform
+behavior and installed implementation checks remain to be established through
+that work or direct use of the method.
