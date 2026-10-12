@@ -11,8 +11,7 @@ Author: **Leon.id Komarovsky** — [leonid@komarovsky.info](mailto:leonid@komaro
 - [Method](docs/simple-method-for-processing-unorganized-items.md) — the published
   v1.2.0 method.
 - [Specialized methods](docs/specialized-methods/README.md) — domain-specific
-  applications of the shared method, beginning with the Mail v1.0.0 release
-  candidate.
+  applications of the shared method, with version and adoption guidance.
 - [Decision log](docs/decision-log.md) — lasting decisions and their rationale.
   The method document contains the guidance to use.
 - [Changelog](CHANGELOG.md) — summaries of changes by version and repository
@@ -25,6 +24,12 @@ The repository layout can change independently of the method. The fixed
 [v1.0.0 release](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.0.0)
 keeps the original method file at the repository root. Implementations should
 pin a released tag or commit.
+
+## Specialized methods
+
+- [Mail processing](docs/specialized-methods/mail.md) — v1.0.0 release candidate,
+  based on shared method v1.2.0. Covers Inbox processing, filtered sets and other
+  chosen email collections.
 
 ## Versioning
 

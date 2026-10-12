@@ -14,6 +14,7 @@ Mail recommendation and requested a branch and PR.
 - Explain external actions and context, draft-only handling, waiting for
   responses, relevant preferences and continuity between processing rounds.
 - Establish canonical specialized methods in `docs/specialized-methods/`.
+  List included methods and their versions directly in the main README.
   Organizers implements the corresponding skills and bundles approved copies of
   each specialization and its governing shared method with versions, provenance
   and hashes.
