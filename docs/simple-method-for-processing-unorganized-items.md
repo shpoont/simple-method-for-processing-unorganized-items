@@ -34,8 +34,8 @@ Exclude later arrivals unless explicitly included.
 This boundary includes nested contents without listing every file.
 
 Use the existing order or current view by default. Choose another only when the
-purpose needs it, or a useful one if none exists. Discovered eligible items suffice
-by default; make incomplete discovery clear.
+purpose needs it, or a useful one if none exists. By default, work from the eligible
+items you have discovered; make incomplete discovery clear.
 
 When precise ordering matters, resolve relevant ties and selection across included
 levels. A required whole-collection order needs adequate evidence, such as a
@@ -48,8 +48,8 @@ blocked items while keeping them tracked.
 
 One item is enough. You may expand the scope to a group, even the whole collection,
 including a container, selected contents or both. Additional members need not
-share the starting item's age or position, but preserve any required selection
-order and actual processing sequence.
+share the starting item's age or position, but follow any required order for
+selecting items and carrying out actions.
 
 When expanding would help, find candidates by browsing, searching, comparing,
 following references or asking for context. Confirm membership from the purpose,
@@ -133,7 +133,8 @@ contents. Handling the container does not establish individual inspection.
 the scope of 20 unfinished until their archiving is verified.
 
 If arranging follow-up is the chosen handling, specify the next action,
-responsibility, accessible information and reliable pickup or reconsideration.
+responsibility, accessible information and how the work will reliably be picked
+up or reconsidered.
 Confirm that the receiving workflow accepts this work and preserves the information
 and conditions needed to continue. Existing intake can suffice; a recorded note
 alone does not complete processing.

@@ -179,3 +179,12 @@ deferred unless a concrete need or gap appears.
 The candidate does not change published baselines or establish practical
 effectiveness. Its clarity and consistency can be reviewed before adoption;
 evidence of benefit in actual use remains separate.
+
+On 2026-10-12, a fresh review cycle found no consequential regression in the
+five agreed clarifications. The owner requested three wording refinements:
+explain working from discovered items, make required selection and action order
+explicit, and describe how follow-up will reliably be picked up or reconsidered.
+The refinements preserve the existing defaults, responsibilities and completion
+claims. The [review record](reviews/issue-3-review.md) distinguishes the reviewed
+snapshots and records a separate assessment of readability; any further
+rearrangement remains a proposal.

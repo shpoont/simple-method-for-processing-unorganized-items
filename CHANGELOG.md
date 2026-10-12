@@ -20,6 +20,11 @@ The final wording remains subject to review; no new method version is released.
   handling into question, retaining results that remain valid.
 - Make handling a scope in parts explicit while preserving required order,
   dependencies and verified completion for every included member.
+- Clarify working from discovered items, required selection and action order,
+  and how arranged follow-up will be picked up or reconsidered.
+
+Fresh reviews and the readability assessment are recorded in the
+[issue #3 review](docs/reviews/issue-3-review.md).
 
 Broader assurance policy, an additional stopping rule and a companion guide
 remain deferred. The published v1.1.0 and v1.0.0 baselines remain fixed.
