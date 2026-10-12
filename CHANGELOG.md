@@ -4,6 +4,35 @@ Versioned summaries of changes to the method and repository maintenance.
 For lasting decisions and their rationale, see the
 [decision log](docs/decision-log.md).
 
+## [v1.2.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.2.0)
+
+Released on 2026-10-12 following the discussion in
+[issue #3](https://github.com/shpoont/simple-method-for-processing-unorganized-items/issues/3).
+The owner accepted the reviewed 1,298-word method and requested release.
+
+- Briefly explain the shared method, specialized methods and implementations,
+  preserving direct use without separate specialization documents.
+- Allow safe retries under uncertainty while resolving the previous outcome
+  where needed and reusing confirmed results that still apply.
+- Connect handling decisions and claims of achieved purpose to the intended
+  results and adequate evidence.
+- Reconsider affected processed work when new information calls earlier
+  handling into question, retaining results that remain valid.
+- Make handling a scope in parts explicit while preserving required order,
+  dependencies and verified completion for every included member.
+- Clarify working from discovered items, required selection and action order,
+  and how arranged follow-up will be picked up or reconsidered.
+- Improve reading flow with a scope-refinement signpost, shorter grouping
+  paragraphs, and clear topics for execution, follow-up, completion and recovery.
+- Establish example settings and references before using their details; clarify
+  material outside the collection and the process responsible for follow-up.
+
+Fresh reviews, the readability assessment and the final Pro review are recorded in the
+[issue #3 review](docs/reviews/issue-3-review.md).
+
+Broader assurance policy, an additional stopping rule and a companion guide
+remain deferred. The published v1.1.0 and v1.0.0 baselines remain fixed.
+
 ## [v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.1.0)
 
 Released on 2026-10-11.
