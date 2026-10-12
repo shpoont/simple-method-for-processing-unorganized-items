@@ -6,8 +6,9 @@ what to do, act and check, then continue.
 Use this shared method directly or specialize it for a domain, purpose or
 recurring situation. Specialized methods define suitable handling and evidence;
 implementations carry out those choices through people, agents, tools or software.
-Both preserve the shared meanings and responsibilities. These roles can be
-combined; simple work needs no separate specialization document.
+Both preserve this method's meanings and responsibilities. Specialization and
+implementation can be combined; simple work needs no separate specialization
+document.
 
 ## Terminology
 
@@ -30,8 +31,9 @@ container contents, including how far into nested containers the work extends.
 A boundary can be a rule; no complete list, map or inspection is needed to start.
 Exclude later arrivals unless explicitly included.
 
-**Example:** Files already in Downloads and all its subfolders can be a collection.
-This boundary includes nested contents without listing every file.
+**Example:** When organizing computer files, the collection could be all files
+already in a folder named Downloads and all its subfolders. This boundary includes
+nested contents without listing every file.
 
 Use the existing order or current view by default. Choose another only when the
 purpose needs it, or a useful one if none exists. By default, work from the eligible
@@ -58,8 +60,8 @@ selecting items and carrying out actions.
 When expanding would help, find candidates by browsing, searching, comparing,
 following references or asking for context. Confirm membership from the purpose,
 evidence and exceptions. Similarity alone is insufficient, though reliable search
-evidence may suffice. Keep uncertain membership pending. Outside material can
-inform the decision, but changing it needs separate authority.
+evidence may suffice. Keep uncertain membership pending. Material outside the
+collection can inform the decision, but changing it needs separate authority.
 
 Prefer **one appropriate shared handling action** as you refine the scope. Let it
 guide grouping provisionally, without distorting the evidence. One item may need
@@ -75,10 +77,11 @@ may suffice. Weigh expected improvement and reuse in later work against time and
 resources, taking error consequences and what is already known into account.
 Item count alone does not determine effort.
 
-**Example:** Search may identify three related files in Downloads that could be
-archived together. An outside reference library may settle their relationship.
-A costly comparison may be worthwhile before deleting a possibly unique version,
-or if its findings will help with later items.
+**Example:** Continuing the folder example, search may identify three related
+files in Downloads that could be archived together. Information in other files
+outside the collection may clarify their relationship. A costly comparison of
+file versions may be worthwhile if you are considering deleting a possibly
+unique version instead, or if its findings will help with later items.
 
 ## Decide what to do
 
@@ -97,9 +100,9 @@ handling action, showing known exceptions and necessary combinations from the
 outset. Several recommended or final actions may be warranted, including for
 different or overlapping targets within one scope.
 
-**Example:** A scope of 20 booking emails may be recommended for archiving, but the
-final decision may delete 15 and archive five. That change does not require
-splitting or restarting.
+**Example:** For an email collection, a scope of 20 booking emails may be recommended
+for archiving, but the final decision may delete 15 and archive five. That change
+does not require splitting or restarting.
 
 ## Act and check
 
@@ -123,9 +126,9 @@ Act within your authority while the decision's conditions hold.
 If arranging follow-up is the chosen handling, specify the next action,
 responsibility, accessible information and how the work will reliably be picked
 up or reconsidered.
-Confirm that the receiving workflow accepts this work and preserves the information
-and conditions needed to continue. Existing intake can suffice; a recorded note
-alone does not complete processing.
+Confirm that the process responsible for the follow-up accepts this work and
+preserves the information and conditions needed to continue. An existing way to
+accept the work can suffice; a recorded note alone does not complete processing.
 
 ### Check completion
 
@@ -143,8 +146,9 @@ enumerating or inspecting each member. Container contents count only when their
 chosen handling is fulfilled and checked; one action can suffice for all included
 contents. Handling the container does not establish individual inspection.
 
-**Example:** Verifying the 15 deletions leaves five booking emails unprocessed and
-the scope of 20 unfinished until their archiving is verified.
+**Example:** In the email example above, verifying the 15 deletions leaves five
+emails unprocessed and the scope of 20 unfinished until their archiving is
+verified.
 
 ### Handle changes and interruptions
 

@@ -24,6 +24,8 @@ The final wording remains subject to review; no new method version is released.
   and how arranged follow-up will be picked up or reconsidered.
 - Improve reading flow with a scope-refinement signpost, shorter grouping
   paragraphs, and clear topics for execution, follow-up, completion and recovery.
+- Establish example settings and references before using their details; clarify
+  material outside the collection and the process responsible for follow-up.
 
 Fresh reviews and the readability assessment are recorded in the
 [issue #3 review](docs/reviews/issue-3-review.md).

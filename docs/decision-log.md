@@ -199,3 +199,13 @@ to unfinished work continue to apply throughout. Subheadings organize the
 existing guidance within the workflow; they do not add required stages or change
 its conditions. Fresh readers and an independent comparison assess this
 candidate arrangement before adoption.
+
+The owner subsequently requested a fresh subagent review for unexplained
+references and context that readers had not yet been given. Introduce the file
+and email settings before their details, identify Downloads as an example folder,
+and reconnect later examples before referring to their files or counts. Name the
+collection as the boundary for outside material, consistent with D04. Identify
+the process responsible for follow-up before requiring it to accept the work,
+and use plain wording for an existing way to do so. Clarify the introductory
+references to specialization and implementation. These contextual repairs retain
+the method's rules, terms and workflow; they add no required stages or definitions.

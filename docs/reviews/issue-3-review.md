@@ -115,10 +115,59 @@ These checks support the revised reading flow and preservation of meaning;
 reader acceptance and effectiveness in actual use remain separate. The
 candidate is still unreleased.
 
+## Checks of the 1,257-word snapshot
+
+The saved method matched the final reviewed layout snapshot. Whitespace checks
+passed, and all 12 relative Markdown links resolved. The normalized body sentences
+and main workflow headings matched the preceding candidate; the other method
+sections were unchanged. Historical decisions, released changelog entries and
+the earlier release review were preserved. That revision remained a candidate
+for review.
+
+## Context before details
+
+The owner identified an unexplained reference to Downloads and requested another
+subagent review. Two fresh reviewers independently read the frozen 1,257-word
+snapshot for unexplained references, context gaps and example continuity. Both
+identified the unnamed outside boundary and the unintroduced folder. The
+first-read review also found an unclear transition from archiving related files
+to considering deletion; the editorial review suggested introducing the follow-up
+process before discussing its acceptance.
+
+The revision establishes the file-organizing setting and names Downloads as an
+example folder before referring to its contents. It connects the later file
+example, introduces information in other files outside the collection, and
+presents deletion as a conditional alternative. The email example introduces its
+setting, and its continuation reconnects the reader before using the earlier
+counts. The introduction names specialization and implementation directly, and
+the follow-up guidance identifies the responsible process and describes an
+existing way to accept work in plain language. Naming the collection as the
+outside boundary follows the adopted D04 rather than changing that boundary.
+
+The same two reviewers then read the complete frozen revision. Both passed the
+focused recheck and found no consequential remaining context defect. Shared-work
+language is supported by the existing grouping, dependency and completion
+guidance; no additional glossary entries were needed.
+
+A third fresh reviewer independently compared the original and revised snapshots
+and read the revision on its own. The comparison passed all seven edited blocks,
+including the outside boundary, conditional comparison effort and reuse,
+accepted follow-up and verified handling of the whole email scope. It found no
+consequential regression or remaining context-before-details problem.
+
+Reviewed snapshot: 1,298 words, SHA-256
+`7cbd280c52325c9ffdac563b54b3a0a457ab2bf7f5237d3777f701b237006440`.
+The contextual repairs add 41 words; the candidate adds 181 words to v1.1.0.
+Exactly seven paragraphs change. Replacing those paragraphs with their preceding
+versions reproduces the 1,257-word method byte-for-byte. All headings, the glossary
+and the remaining instructions are unchanged. No new stage or policy is added.
+
 ## Final repository checks
 
-The saved method matches the final reviewed snapshot. Whitespace checks pass,
-and all 12 relative Markdown links resolve. The normalized body sentences and
-main workflow headings match the preceding candidate; the other method sections
-are unchanged. Historical decisions, released changelog entries and the earlier
-release review are preserved. This revision remains a candidate for review.
+The saved method matches the reviewed 1,298-word snapshot. Whitespace checks pass,
+and all 12 relative Markdown links resolve. Exactly seven method paragraphs
+change in this follow-up; all other method text is preserved. Historical decisions,
+released changelog entries and the earlier release review remain unchanged.
+The candidate is still unreleased. These document reviews support contextual
+clarity and preservation of meaning, not effectiveness in actual use or owner
+acceptance.
