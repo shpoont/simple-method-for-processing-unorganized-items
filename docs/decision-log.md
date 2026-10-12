@@ -188,3 +188,14 @@ The refinements preserve the existing defaults, responsibilities and completion
 claims. The [review record](reviews/issue-3-review.md) distinguishes the reviewed
 snapshots and records a separate assessment of readability; any further
 rearrangement remains a proposal.
+
+Later on 2026-10-12, the owner requested the readability improvement. Retain the
+existing instructions while separating the grouping preference from decisions
+about keeping or splitting a group. Give scope refinement a clear signpost after
+the statement that one item is enough. In Act and check, keep comparison and
+completion guidance together, show applicable follow-up acceptance before
+completion, and group changes and retries separately. Recoverability and access
+to unfinished work continue to apply throughout. Subheadings organize the
+existing guidance within the workflow; they do not add required stages or change
+its conditions. Fresh readers and an independent comparison assess this
+candidate arrangement before adoption.

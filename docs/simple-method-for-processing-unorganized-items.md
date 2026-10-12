@@ -46,7 +46,11 @@ reliable sorted view. The newest item found may not be globally newest.
 Start the scope with the first unprocessed item in that order or view, skipping
 blocked items while keeping them tracked.
 
-One item is enough. You may expand the scope to a group, even the whole collection,
+One item is enough.
+
+### Refine the scope
+
+You may expand the scope to a group, even the whole collection,
 including a container, selected contents or both. Additional members need not
 share the starting item's age or position, but follow any required order for
 selecting items and carrying out actions.
@@ -58,11 +62,13 @@ evidence may suffice. Keep uncertain membership pending. Outside material can
 inform the decision, but changing it needs separate authority.
 
 Prefer **one appropriate shared handling action** as you refine the scope. Let it
-guide grouping provisionally, without distorting the evidence. Keep items together
-when joint consideration or a shared result matters, even if several actions are
-needed. Split only when that helps while preserving dependencies and without
-adding disproportionate work. One item may need several actions; supporting
-searches and checks do not count against this preference.
+guide grouping provisionally, without distorting the evidence. One item may need
+several actions; supporting searches and checks do not count against this
+preference.
+
+Keep items together when joint consideration or a shared result matters, even if
+several actions are needed. Split only when that helps while preserving
+dependencies and without adding disproportionate work.
 
 You may gather evidence for membership or handling when useful; existing evidence
 may suffice. Weigh expected improvement and reuse in later work against time and
@@ -97,6 +103,12 @@ splitting or restarting.
 
 ## Act and check
 
+Keep decisions, results and unfinished work recoverable.
+Unfinished items must remain accessible even after an action moves them outside
+the original view.
+
+### Act on the decision
+
 Specify each action and its targets, including effects on container contents.
 Targets can cover all or part of the scope and overlap between actions.
 A scope may be handled in parts, preserving required order and dependencies.
@@ -104,19 +116,21 @@ A scope may be handled in parts, preserving required order and dependencies.
 When approval is required, show the actual final actions, targets, effects and
 conditions and obtain approval before execution, individually or as a set.
 
-Act within your authority while the decision's conditions hold. Compare the results
-with the decision; revisit the scope or decision on material change.
+Act within your authority while the decision's conditions hold.
 
-Reconsider affected work, including processed items, when new information calls
-earlier handling into question. Retain results that remain valid.
+### When arranging follow-up
 
-Keep decisions, results and unfinished work recoverable.
-Unfinished items must remain accessible even after an action moves them outside
-the original view.
+If arranging follow-up is the chosen handling, specify the next action,
+responsibility, accessible information and how the work will reliably be picked
+up or reconsidered.
+Confirm that the receiving workflow accepts this work and preserves the information
+and conditions needed to continue. Existing intake can suffice; a recorded note
+alone does not complete processing.
 
-Retry when safe; resolve uncertainty about the previous attempt when needed.
-Reuse confirmed successes that still apply. If blocked, proceed only with
-independent work or an authorized next step.
+### Check completion
+
+Compare the results with the decision; revisit the scope or decision on material
+change.
 
 Mark an item **processed** only when evidence verifies that its chosen handling
 was achieved. A scope or group is processed only when this covers every member.
@@ -132,12 +146,14 @@ contents. Handling the container does not establish individual inspection.
 **Example:** Verifying the 15 deletions leaves five booking emails unprocessed and
 the scope of 20 unfinished until their archiving is verified.
 
-If arranging follow-up is the chosen handling, specify the next action,
-responsibility, accessible information and how the work will reliably be picked
-up or reconsidered.
-Confirm that the receiving workflow accepts this work and preserves the information
-and conditions needed to continue. Existing intake can suffice; a recorded note
-alone does not complete processing.
+### Handle changes and interruptions
+
+Reconsider affected work, including processed items, when new information calls
+earlier handling into question. Retain results that remain valid.
+
+Retry when safe; resolve uncertainty about the previous attempt when needed.
+Reuse confirmed successes that still apply. If blocked, proceed only with
+independent work or an authorized next step.
 
 ## Continue or stop
 

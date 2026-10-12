@@ -22,6 +22,8 @@ The final wording remains subject to review; no new method version is released.
   dependencies and verified completion for every included member.
 - Clarify working from discovered items, required selection and action order,
   and how arranged follow-up will be picked up or reconsidered.
+- Improve reading flow with a scope-refinement signpost, shorter grouping
+  paragraphs, and clear topics for execution, follow-up, completion and recovery.
 
 Fresh reviews and the readability assessment are recorded in the
 [issue #3 review](docs/reviews/issue-3-review.md).
