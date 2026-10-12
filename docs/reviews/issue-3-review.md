@@ -3,9 +3,10 @@
 Reviewed on 2026-10-12 for
 [issue #3](https://github.com/shpoont/simple-method-for-processing-unorganized-items/issues/3)
 and [PR #4](https://github.com/shpoont/simple-method-for-processing-unorganized-items/pull/4).
-The [method](../simple-method-for-processing-unorganized-items.md) remains an
-unreleased candidate. These document reviews and paper walkthroughs do not
-establish effectiveness in real use or owner acceptance of readability.
+The [method](../simple-method-for-processing-unorganized-items.md) was reviewed as
+an unreleased candidate and accepted for v1.2.0 on 2026-10-12. These document
+reviews and paper walkthroughs do not establish effectiveness in real use.
+Owner acceptance is recorded separately below.
 
 ## Fresh review cycle
 
@@ -113,7 +114,7 @@ headings remain unchanged.
 
 These checks support the revised reading flow and preservation of meaning;
 reader acceptance and effectiveness in actual use remain separate. The
-candidate is still unreleased.
+candidate was still unreleased at that stage.
 
 ## Checks of the 1,257-word snapshot
 
@@ -164,10 +165,37 @@ and the remaining instructions are unchanged. No new stage or policy is added.
 
 ## Final repository checks
 
-The saved method matches the reviewed 1,298-word snapshot. Whitespace checks pass,
-and all 12 relative Markdown links resolve. Exactly seven method paragraphs
-change in this follow-up; all other method text is preserved. Historical decisions,
-released changelog entries and the earlier release review remain unchanged.
-The candidate is still unreleased. These document reviews support contextual
-clarity and preservation of meaning, not effectiveness in actual use or owner
-acceptance.
+The saved method matched the reviewed 1,298-word snapshot. Whitespace checks
+passed, and all 12 relative Markdown links resolved. Exactly seven method
+paragraphs changed in that follow-up; all other method text was preserved.
+Historical decisions, released changelog entries and the earlier release review
+remained unchanged. The candidate was still unreleased at that stage. These
+document reviews supported contextual clarity and preservation of meaning;
+effectiveness in actual use and owner acceptance remained separate.
+
+## Final Pro review and release acceptance
+
+On 2026-10-12, the owner requested one final Pro review. Pro received the complete
+1,298-word method at commit `75c37a3356b8f0c8461072325d1d53e842cd0f80`, with
+SHA-256 `7cbd280c52325c9ffdac563b54b3a0a457ab2bf7f5237d3777f701b237006440`.
+The completed review was checked against the submitted text; only one review
+request was sent.
+
+Pro found no material release blockers and judged the candidate ready for
+adoption as a small, practical shared method. It found the agreed changes
+coherent, the roles and direct-use path sufficiently clear, the defaults and
+safeguards preserved, and the added context and subheadings proportionate.
+
+The review suggested two small, nonblocking clarifications: explicitly reopen
+handling whose completion is no longer supported, and make the relationship
+between remaining uncertainty and retry safety more explicit. It also suggested
+optionally deleting the separate-view sentence. No further review cycle was
+required for readiness. These suggestions were reported to the owner as
+recommendations rather than applied edits.
+
+The owner then accepted the current candidate and requested the new release and
+cleanup of unnecessary branches. v1.2.0 preserves the exact reviewed method:
+1,298 words and the SHA-256 above. Release preparation updates the README,
+changelog, decision status and this review record. Published v1.0.0 and v1.1.0
+baselines remain fixed. Document-level readiness and owner acceptance do not
+establish usability, performance or effectiveness in actual use.

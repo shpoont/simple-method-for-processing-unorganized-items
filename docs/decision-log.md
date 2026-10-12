@@ -143,11 +143,11 @@ retain earlier reviews as historical evidence rather than tests of new text.
 
 ## D08 — 2026-10-11: Prepare focused clarifications for the next revision
 
-**Status: proposed for the next revision.** The owner agreed the direction
+**Status: adopted for v1.2.0 on 2026-10-12.** The owner agreed the direction
 discussed in
 [issue #3](https://github.com/shpoont/simple-method-for-processing-unorganized-items/issues/3)
-and requested a candidate on a branch and PR. The direction is agreed; final
-method wording and a new release remain subject to review.
+and requested a candidate on a branch and PR. After the recorded subagent and
+Pro reviews, the owner accepted the candidate and requested release on 2026-10-12.
 
 Keep the revision small. Briefly explain the shared method's meanings and
 responsibilities, specialized handling and evidence for a domain, purpose or
@@ -209,3 +209,12 @@ the process responsible for follow-up before requiring it to accept the work,
 and use plain wording for an existing way to do so. Clarify the introductory
 references to specialization and implementation. These contextual repairs retain
 the method's rules, terms and workflow; they add no required stages or definitions.
+
+The final Pro review found no material release blockers in the 1,298-word
+candidate. It recommended two nonblocking clarifications about unsupported
+completion and retry safety, and an optional deletion of the separate-view
+sentence. The owner then accepted the current candidate for release. v1.2.0
+preserves that exact reviewed method; the suggestions remain review observations.
+The release adopts the focused revision without adding the deferred policies or
+companion guide. This acceptance is distinct from evidence of effectiveness in
+actual use.

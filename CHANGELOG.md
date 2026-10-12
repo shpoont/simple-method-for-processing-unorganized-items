@@ -4,11 +4,11 @@ Versioned summaries of changes to the method and repository maintenance.
 For lasting decisions and their rationale, see the
 [decision log](docs/decision-log.md).
 
-## Unreleased
+## [v1.2.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.2.0)
 
-Candidate changes following the discussion in
+Released on 2026-10-12 following the discussion in
 [issue #3](https://github.com/shpoont/simple-method-for-processing-unorganized-items/issues/3).
-The final wording remains subject to review; no new method version is released.
+The owner accepted the reviewed 1,298-word method and requested release.
 
 - Briefly explain the shared method, specialized methods and implementations,
   preserving direct use without separate specialization documents.
@@ -27,7 +27,7 @@ The final wording remains subject to review; no new method version is released.
 - Establish example settings and references before using their details; clarify
   material outside the collection and the process responsible for follow-up.
 
-Fresh reviews and the readability assessment are recorded in the
+Fresh reviews, the readability assessment and the final Pro review are recorded in the
 [issue #3 review](docs/reviews/issue-3-review.md).
 
 Broader assurance policy, an additional stopping rule and a companion guide

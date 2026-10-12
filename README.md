@@ -8,16 +8,16 @@ Author: **Leon.id Komarovsky** — [leonid@komarovsky.info](mailto:leonid@komaro
 
 ## Documents
 
-- [Method](docs/simple-method-for-processing-unorganized-items.md) — the current
-  working text for the next revision; changes since v1.1.0 are unreleased.
+- [Method](docs/simple-method-for-processing-unorganized-items.md) — the published
+  v1.2.0 method.
 - [Decision log](docs/decision-log.md) — lasting decisions and their rationale.
   The method document contains the guidance to use.
 - [Changelog](CHANGELOG.md) — summaries of changes by version and repository
   maintenance.
 
 The latest published method release is
-[v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.1.0),
-released on 11 October 2026.
+[v1.2.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.2.0),
+released on 12 October 2026.
 The repository layout can change independently of the method. The fixed
 [v1.0.0 release](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.0.0)
 keeps the original method file at the repository root. Implementations should
