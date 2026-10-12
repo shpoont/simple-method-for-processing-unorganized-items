@@ -218,3 +218,41 @@ preserves that exact reviewed method; the suggestions remain review observations
 The release adopts the focused revision without adding the deferred policies or
 companion guide. This acceptance is distinct from evidence of effectiveness in
 actual use.
+
+## D09 — 2026-10-12: Prepare the first canonical Mail specialization
+
+**Status: accepted for publication; inclusion on main awaits PR merge.** The
+owner accepted the reviewed Mail recommendation, requested fresh readability,
+practical walkthrough and consistency reviews, then authorized a branch and PR
+after those reviews and focused rechecks passed.
+
+Maintain canonical specializations in `docs/specialized-methods/`. Each identifies
+its governing shared-method version and follows all that method's rules. A
+logical conflict should prompt consideration of a shared-method change rather
+than an overriding specialization rule. The shared method remains v1.2.0,
+unchanged; a fixed merged commit identifies this first Mail specialization.
+
+Inbox processing toward inbox zero is the main Mail example. Filtered sets and
+other chosen collections remain supported. Distinguish common handling from
+optional platform features, define membership meanings and time, and preserve
+unfinished handling when messages leave their original view.
+
+Handling can involve external systems. Keep actual targets, authority and
+required results clear, including task updates, notifications and accepted
+follow-up. Distinguish draft preparation, sending, responses and downstream
+resolution. Relevant context, preferences and continuity between rounds support
+handling without mandatory exhaustive investigation, priority setup or tracking
+systems.
+
+Organizers owns corresponding skill implementations, provider integration and
+implementation checks. Each skill bundles deliberately approved copies of both
+the specialization and its governing shared method, with source path, revision
+and content hash for each. A combined reading copy can be assembled for
+convenience. Implementation adoption and actual operations require their own
+authority.
+
+The development order is Mail, Files and folders, Generic Collections, then
+Work Items. The [Mail review record](reviews/mail-specialization-review.md)
+documents the consultations, reviews and paper cases. They support written
+clarity and consistency; practical usefulness and installed behavior remain to
+be established through implementation and use.

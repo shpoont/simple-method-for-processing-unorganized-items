@@ -10,6 +10,8 @@ Author: **Leon.id Komarovsky** — [leonid@komarovsky.info](mailto:leonid@komaro
 
 - [Method](docs/simple-method-for-processing-unorganized-items.md) — the published
   v1.2.0 method.
+- [Specialized methods](docs/specialized-methods/README.md) — domain-specific
+  applications of the shared method, beginning with Mail processing.
 - [Decision log](docs/decision-log.md) — lasting decisions and their rationale.
   The method document contains the guidance to use.
 - [Changelog](CHANGELOG.md) — summaries of changes by version and repository
