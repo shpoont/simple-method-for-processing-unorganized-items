@@ -8,18 +8,20 @@ Author: **Leon.id Komarovsky** — [leonid@komarovsky.info](mailto:leonid@komaro
 
 ## Documents
 
-- [Method](docs/simple-method-for-processing-unorganized-items.md) — the published
-  v1.2.0 method.
+- [Shared method](docs/simple-method-for-processing-unorganized-items.md) — v1.3.0,
+  clarifying handling authority and informed approval.
 - [Specialized methods](docs/specialized-methods/README.md) — domain-specific
   applications of the shared method, with version and adoption guidance.
 - [Decision log](docs/decision-log.md) — lasting decisions and their rationale.
   The method document contains the guidance to use.
 - [Changelog](CHANGELOG.md) — summaries of changes by version and repository
   maintenance.
+- [Release review](docs/reviews/decision-authority-review.md) — agreed changes,
+  consistency checks and Mail's adoption of shared v1.3.0.
 
 The latest published shared-method release is
-[v1.2.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.2.0),
-released on 12 October 2026.
+[v1.3.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.3.0),
+released on 13 October 2026.
 The repository layout can change independently of the method. The fixed
 [v1.0.0 release](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.0.0)
 keeps the original method file at the repository root. Implementations should
@@ -27,10 +29,11 @@ pin a released tag or commit.
 
 ## Specialized methods
 
-- [Mail processing](docs/specialized-methods/mail.md) —
-  [v1.0.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/mail/v1.0.0),
-  based on shared method v1.2.0. Covers Inbox processing, filtered sets and other
-  chosen email collections.
+- [Mail Processing](docs/specialized-methods/mail.md) —
+  [v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/mail/v1.1.0),
+  governed by shared v1.3.0. Covers Inbox processing, filtered sets and other
+  chosen email collections. This release adopts the shared clarifications
+  without changing Mail handling text.
 
 ## Versioning
 

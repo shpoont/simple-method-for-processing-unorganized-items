@@ -4,6 +4,38 @@ Versioned summaries of changes to the method and repository maintenance.
 For lasting decisions and their rationale, see the
 [decision log](docs/decision-log.md).
 
+## [Mail v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/mail/v1.1.0)
+
+Released on 2026-10-13 after the owner accepted the reviewed revision and
+requested publication.
+
+- Adopt the fixed shared v1.3.0 document, preserving all Mail handling text.
+- Keep the independent Mail version and tag; Mail v1.0.0 retains its original
+  shared v1.2.0 dependency.
+
+This compatible adoption uses a minor version under the README's criteria.
+Publication does not update an Organizers skill or establish implementation
+behavior. See the [release review](docs/reviews/decision-authority-review.md).
+
+## [Shared method v1.3.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.3.0)
+
+Released on 2026-10-13 after the owner accepted the reviewed revision and
+requested publication.
+
+- Distinguish authority to choose handling from authority to carry out work.
+  Keep choices within established authority and resolve material uncertainty
+  before acting on the handling decision.
+- Clarify informed approval: a clear authorized instruction, including a
+  revision, can supply approval when targets, material effects and conditions
+  are understood. Revision alone does not require another confirmation.
+- Retain the existing loop, optional recommendations and scope view, authorized
+  policies, flexible final decisions and completion rules.
+- Fix historical review links to their released documents.
+
+This compatible clarification uses a minor version under the README's criteria.
+Published shared v1.2.0 and Mail v1.0.0 remain fixed. See the
+[release review](docs/reviews/decision-authority-review.md).
+
 ## [Mail v1.0.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/mail/v1.0.0)
 
 Released on 2026-10-12 after the owner accepted the reviewed Mail recommendation,

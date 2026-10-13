@@ -3,7 +3,7 @@
 Reviewed on 2026-10-12 for
 [issue #3](https://github.com/shpoont/simple-method-for-processing-unorganized-items/issues/3)
 and [PR #4](https://github.com/shpoont/simple-method-for-processing-unorganized-items/pull/4).
-The [method](../simple-method-for-processing-unorganized-items.md) was reviewed as
+The [method](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/v1.2.0/docs/simple-method-for-processing-unorganized-items.md) was reviewed as
 an unreleased candidate and accepted for v1.2.0 on 2026-10-12. These document
 reviews and paper walkthroughs do not establish effectiveness in real use.
 Owner acceptance is recorded separately below.

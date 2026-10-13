@@ -25,13 +25,16 @@ assembled from these sources for convenient use.
 
 ## Methods
 
-- [Mail](mail.md) —
-  [v1.0.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/mail/v1.0.0),
-  based on shared method v1.2.0. Released on 12 October 2026 under `mail/v1.0.0`.
-  Covers chosen email collections, with inbox processing as the main example.
-  See the [review record](../reviews/mail-specialization-review.md) for Pro's
-  assessments, fresh subagent reviews, editorial clarifications and remaining
-  implementation work.
+- [Mail Processing](mail.md) —
+  [v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/mail/v1.1.0),
+  released on 13 October 2026 and governed by shared v1.3.0. Covers chosen email
+  collections, with inbox processing as the main example. This release adopts
+  the shared clarifications without changing Mail handling text; see the
+  [current review](../reviews/decision-authority-review.md).
+  [Published Mail v1.0.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/mail/v1.0.0/docs/specialized-methods/mail.md)
+  continues to follow shared v1.2.0. Its
+  [historical review](../reviews/mail-specialization-review.md) records Pro's
+  assessments, independent reviews and editorial clarifications for that release.
 
 The agreed development order is Mail, Files and folders, Generic Collections,
 then Work Items.
