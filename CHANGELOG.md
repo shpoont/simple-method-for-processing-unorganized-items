@@ -4,6 +4,31 @@ Versioned summaries of changes to the method and repository maintenance.
 For lasting decisions and their rationale, see the
 [decision log](docs/decision-log.md).
 
+## Unreleased
+
+### Shared method v1.3.0 candidate
+
+- Distinguish authority to choose handling from authority to carry out work.
+  Keep choices within established authority and resolve material uncertainty
+  before acting on the handling decision.
+- Clarify informed approval: a clear authorized instruction, including a
+  revision, can supply approval when targets, material effects and conditions
+  are understood. Revision alone does not require another confirmation.
+- Retain the existing loop, optional recommendations and scope view, authorized
+  policies, flexible final decisions and completion rules.
+
+### Mail v1.1.0 candidate
+
+- Propose adoption of shared v1.3.0, preserving all Mail handling text.
+  The candidate links to the shared candidate while both are in review;
+  publication preparation must replace this with the fixed released source.
+
+Both minor versions follow the criteria in the README for compatible
+clarifications and their deliberate adoption. Published shared v1.2.0 and
+Mail v1.0.0 remain fixed. This candidate does not update an Organizers skill
+or establish implementation behavior. See the
+[candidate review](docs/reviews/decision-authority-review.md).
+
 ## [Mail v1.0.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/mail/v1.0.0)
 
 Released on 2026-10-12 after the owner accepted the reviewed Mail recommendation,

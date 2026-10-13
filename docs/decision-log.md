@@ -293,3 +293,24 @@ The adopted revision adds the version declaration and fixed dependency link
 without changing Mail handling guidance or the shared-method contents.
 Method publication does not adopt an implementation or authorize actual mail
 operations.
+
+## D11 — 2026-10-13: Clarify handling authority and informed approval
+
+**Status: direction agreed; shared v1.3.0 and Mail v1.1.0 candidates in review.**
+The owner accepted both shared clarifications and requested a PR. Publication
+remains pending.
+
+Distinguish authority to carry out work from authority to choose its handling.
+Keep existing authorized decisions, policies and delegated judgment usable;
+resolve material uncertainty about who may choose before acting on the decision.
+A clear authorized instruction, including a revision, can supply informed approval
+when targets, material effects and conditions are understood. Revision alone
+requires no additional confirmation; material uncertainty still needs clarification.
+
+Use compatible minor versions. Mail's candidate adopts shared v1.3.0 without
+changing Mail handling text. Published Mail v1.0.0 keeps its shared v1.2.0 pin.
+The [review record](reviews/decision-authority-review.md) records the comparison,
+candidate snapshots and publication requirements.
+
+Interactive pacing belongs to implementations. Mail Organizer changes and
+practical checks remain later work in Organizers, outside this repository's PR.

@@ -14,7 +14,7 @@ The Mail specialization follows shared method v1.2.0 at commit
 Its SHA-256 is
 `7cbd280c52325c9ffdac563b54b3a0a457ab2bf7f5237d3777f701b237006440`.
 
-The release document is [Mail Processing v1.0.0](../specialized-methods/mail.md),
+The release document is [Mail Processing v1.0.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/mail/v1.0.0/docs/specialized-methods/mail.md),
 983 words. Its SHA-256 is
 `1842d5f1e815990f930cb0799282642352d009f6c7eecdb318a4549f13a452ff`.
 Its fixed source is

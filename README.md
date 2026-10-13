@@ -8,14 +8,18 @@ Author: **Leon.id Komarovsky** — [leonid@komarovsky.info](mailto:leonid@komaro
 
 ## Documents
 
-- [Method](docs/simple-method-for-processing-unorganized-items.md) — the published
-  v1.2.0 method.
+- [Shared method candidate](docs/simple-method-for-processing-unorganized-items.md)
+  — v1.3.0, clarifying handling authority and informed approval. The
+  [published v1.2.0 method](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/v1.2.0/docs/simple-method-for-processing-unorganized-items.md)
+  remains fixed.
 - [Specialized methods](docs/specialized-methods/README.md) — domain-specific
   applications of the shared method, with version and adoption guidance.
 - [Decision log](docs/decision-log.md) — lasting decisions and their rationale.
   The method document contains the guidance to use.
 - [Changelog](CHANGELOG.md) — summaries of changes by version and repository
   maintenance.
+- [Candidate review](docs/reviews/decision-authority-review.md) — agreed changes,
+  consistency checks and Mail dependency adoption proposed for this revision.
 
 The latest published shared-method release is
 [v1.2.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.2.0),
@@ -27,10 +31,11 @@ pin a released tag or commit.
 
 ## Specialized methods
 
-- [Mail processing](docs/specialized-methods/mail.md) —
-  [v1.0.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/mail/v1.0.0),
-  based on shared method v1.2.0. Covers Inbox processing, filtered sets and other
-  chosen email collections.
+- [Mail processing candidate](docs/specialized-methods/mail.md) — v1.1.0,
+  proposing adoption of shared v1.3.0 with unchanged Mail handling text. Covers
+  Inbox processing, filtered sets and other chosen email collections. The
+  [published Mail v1.0.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/mail/v1.0.0/docs/specialized-methods/mail.md)
+  remains governed by shared v1.2.0.
 
 ## Versioning
 

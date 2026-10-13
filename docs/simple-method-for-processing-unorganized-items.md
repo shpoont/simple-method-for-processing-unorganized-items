@@ -1,5 +1,7 @@
 # A Simple Method for Processing Unorganized Items
 
+Version: **1.3.0 — release candidate**
+
 Work through a collection one item or group at a time: choose the scope, decide
 what to do, act and check, then continue.
 
@@ -92,8 +94,13 @@ answers:
 - What conditions must hold?
 - What results would satisfy the decision?
 
-Existing authorized policy may supply the decision. A separate view of the scope's
-items and context is optional.
+Existing authorized policy may supply the decision. When handling has not already
+been decided, choose within your authority or obtain the choice from the
+responsible decision-maker. Authority to carry out work does not by itself
+include authority to choose its handling. Resolve material uncertainty about
+who may choose and within what limits before acting on the decision.
+
+A separate view of the scope's items and context is optional.
 
 Recommendations are optional. When useful, prefer one appropriate recommended
 handling action, showing known exceptions and necessary combinations from the
@@ -116,8 +123,13 @@ Specify each action and its targets, including effects on container contents.
 Targets can cover all or part of the scope and overlap between actions.
 A scope may be handled in parts, preserving required order and dependencies.
 
-When approval is required, show the actual final actions, targets, effects and
-conditions and obtain approval before execution, individually or as a set.
+When approval is required, make the actual final actions, targets, effects and
+conditions clear to the decision-maker and obtain approval before execution,
+individually or as a set. A clear instruction from an authorized decision-maker,
+including a revised instruction, can supply approval when the targets, material
+effects and conditions are already understood. Clarify material uncertainty about
+the handling or authority before execution; revision alone does not require
+another confirmation.
 
 Act within your authority while the decision's conditions hold.
 
