@@ -296,9 +296,9 @@ operations.
 
 ## D11 — 2026-10-13: Clarify handling authority and informed approval
 
-**Status: direction agreed; shared v1.3.0 and Mail v1.1.0 candidates in review.**
-The owner accepted both shared clarifications and requested a PR. Publication
-remains pending.
+**Status: adopted with shared v1.3.0 and Mail v1.1.0 on 2026-10-13.**
+The owner accepted both shared clarifications, reviewed PR #6 and requested
+publication.
 
 Distinguish authority to carry out work from authority to choose its handling.
 Keep existing authorized decisions, policies and delegated judgment usable;
@@ -307,10 +307,10 @@ A clear authorized instruction, including a revision, can supply informed approv
 when targets, material effects and conditions are understood. Revision alone
 requires no additional confirmation; material uncertainty still needs clarification.
 
-Use compatible minor versions. Mail's candidate adopts shared v1.3.0 without
-changing Mail handling text. Published Mail v1.0.0 keeps its shared v1.2.0 pin.
-The [review record](reviews/decision-authority-review.md) records the comparison,
-candidate snapshots and publication requirements.
+Use compatible minor versions. Mail v1.1.0 adopts the fixed shared v1.3.0 source
+without changing Mail handling text. Published Mail v1.0.0 keeps its shared
+v1.2.0 pin. The [review record](reviews/decision-authority-review.md) preserves
+candidate snapshots and records the final release documents and comparisons.
 
 Interactive pacing belongs to implementations. Mail Organizer changes and
-practical checks remain later work in Organizers, outside this repository's PR.
+practical checks remain later work in Organizers, outside this method release.

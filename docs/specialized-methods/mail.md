@@ -1,8 +1,8 @@
 # Mail Processing
 
-Version: **1.1.0 — release candidate**
+Version: **1.1.0**
 
-This specializes [shared method v1.3.0 — release candidate](../simple-method-for-processing-unorganized-items.md). All its rules apply. People and agents can use it directly; existing tools and routines may suffice without an additional record system.
+This specializes [shared method v1.3.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/v1.3.0/docs/simple-method-for-processing-unorganized-items.md). All its rules apply. People and agents can use it directly; existing tools and routines may suffice without an additional record system.
 
 An individual email message is an **item**. Attachments are message content: consider them where relevant without automatically making them separate items.
 

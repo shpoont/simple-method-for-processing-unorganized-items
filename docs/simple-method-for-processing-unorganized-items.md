@@ -1,6 +1,6 @@
 # A Simple Method for Processing Unorganized Items
 
-Version: **1.3.0 — release candidate**
+Version: **1.3.0**
 
 Work through a collection one item or group at a time: choose the scope, decide
 what to do, act and check, then continue.

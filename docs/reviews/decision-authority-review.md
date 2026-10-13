@@ -2,8 +2,8 @@
 
 Date: 13 October 2026.
 
-Status: shared v1.3.0 and Mail v1.1.0 release candidates. The owner agreed the two
-shared clarifications and requested a PR. Merge and publication remain pending.
+Status: approved for publication as shared v1.3.0 and Mail v1.1.0. The owner
+accepted the reviewed revision in PR #6 and requested release.
 
 ## Scope and review basis
 
@@ -22,7 +22,7 @@ of its handling guidance is preserved.
 
 ## Written consistency checks
 
-| Case | Reading supported by the candidate |
+| Case | Reading supported by the reviewed revision |
 | --- | --- |
 | Authorized policy or delegated judgment supplies handling | Existing authority can supply a decision without a universal human-approval checkpoint. |
 | Authority to perform work leaves the handling choice uncertain | Resolve the material uncertainty before acting on that decision; authorized preparation remains available. |
@@ -44,23 +44,33 @@ and practical checks belong to Organizers under separate authority.
 
 Published shared v1.2.0 and Mail v1.0.0 retain their fixed tags, sources and
 historical evidence. Historical review links point to those released sources
-rather than the evolving candidate.
+rather than the evolving documents.
 
-Exact comparisons confirm the stated change boundaries and preserve historical
-decision and release prose. All 28 relative Markdown links and their anchors
-resolve, and whitespace checks pass. Candidate labels and governing versions
-agree across the documents, indexes, changelog and decision record.
+At candidate review, exact comparisons confirmed the stated change boundaries
+and preserved historical decision and release prose. All 28 relative Markdown
+links and their anchors resolved, and whitespace checks passed. Candidate labels
+and governing versions agreed across the documents, indexes, changelog and
+decision record.
 
-## Version and publication preparation
+## Final release snapshots
 
-Both proposed minor versions follow the README's compatible-clarification rule.
+| Document | SHA-256 |
+| --- | --- |
+| Shared v1.3.0 | `9c1dea27cc78b22679ca07cdb86fa2692da3cf0a300a151966f15da913213084` |
+| Mail v1.1.0 | `8a8e30dae7eeaa1c89a9c6451c2ca25343f65bb3b105a999cae6f5c0ce5cfc4b` |
+
+Finalization removes the candidate markers and fixes Mail's governing reference
+to the released shared v1.3.0 source. Exact comparisons preserve all reviewed
+handling guidance. Final relative links, anchors, whitespace and version
+declarations are checked separately from the historical candidate evidence.
+
+## Version and publication
+
+Both minor versions follow the README's compatible-clarification rule.
 Mail v1.1.0 deliberately adopts shared v1.3.0; the existing Mail v1.0.0 release
 continues to follow shared v1.2.0. Unchanged Mail-specific text does not eliminate
 the need for a new version when adopting another governing method.
 
-The candidate Mail reference points to the explicitly versioned shared candidate
-in this branch. Before publication, finalize both candidate labels and release
-records, and replace that reference with the fixed released shared v1.3.0 source.
-Publish the approved snapshot under independent `v1.3.0` and `mail/v1.1.0` tags;
-the shared release remains GitHub Latest and Mail uses `--latest=false`.
+The approved documents use independent `v1.3.0` and `mail/v1.1.0` release tags.
+The shared release remains GitHub Latest and Mail uses `--latest=false`.
 Publication does not update the Organizers plugin or authorize mail operations.

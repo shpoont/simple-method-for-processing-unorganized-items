@@ -25,11 +25,12 @@ assembled from these sources for convenient use.
 
 ## Methods
 
-- [Mail candidate](mail.md) — v1.1.0, proposing adoption of the shared v1.3.0
-  candidate. Its Mail handling text is unchanged. Covers chosen email collections,
-  with inbox processing as the main example. See the
-  [current review](../reviews/decision-authority-review.md) for dependency
-  compatibility and publication requirements.
+- [Mail Processing](mail.md) —
+  [v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/mail/v1.1.0),
+  released on 13 October 2026 and governed by shared v1.3.0. Covers chosen email
+  collections, with inbox processing as the main example. This release adopts
+  the shared clarifications without changing Mail handling text; see the
+  [current review](../reviews/decision-authority-review.md).
   [Published Mail v1.0.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/mail/v1.0.0/docs/specialized-methods/mail.md)
   continues to follow shared v1.2.0. Its
   [historical review](../reviews/mail-specialization-review.md) records Pro's
