@@ -8,20 +8,23 @@ Author: **Leon.id Komarovsky** — [leonid@komarovsky.info](mailto:leonid@komaro
 
 ## Documents
 
-- [Shared method](docs/simple-method-for-processing-unorganized-items.md) — v1.3.0,
-  clarifying handling authority and informed approval.
+- [A Simple Method for Processing Unorganized Items](docs/simple-method-for-processing-unorganized-items.md)
+  — [v1.4.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/v1.4.0/docs/simple-method-for-processing-unorganized-items.md). Provides the shared rules, adding flexible scope
+  selection and applying effort guidance throughout the work.
+  The [published v1.3.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/v1.3.0/docs/simple-method-for-processing-unorganized-items.md)
+  remains fixed.
 - [Specialized methods](docs/specialized-methods/README.md) — domain-specific
   applications of the shared method, with version and adoption guidance.
 - [Decision log](docs/decision-log.md) — lasting decisions and their rationale.
   The method document contains the guidance to use.
 - [Changelog](CHANGELOG.md) — summaries of changes by version and repository
   maintenance.
-- [Release review](docs/reviews/decision-authority-review.md) — agreed changes,
-  consistency checks and Mail's adoption of shared v1.3.0.
+- [Release review](docs/reviews/scope-selection-review.md) — review scope,
+  candidate and final snapshots, and findings for this revision.
 
-The latest published shared-method release is
-[v1.3.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.3.0),
-released on 13 October 2026.
+The latest published release of **A Simple Method for Processing Unorganized Items** is
+[v1.4.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.4.0),
+released on 16 October 2026.
 The repository layout can change independently of the method. The fixed
 [v1.0.0 release](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.0.0)
 keeps the original method file at the repository root. Implementations should
@@ -29,16 +32,18 @@ pin a released tag or commit.
 
 ## Specialized methods
 
-- [Mail Processing](docs/specialized-methods/mail.md) —
-  [v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/mail/v1.1.0),
-  governed by shared v1.3.0. Covers Inbox processing, filtered sets and other
-  chosen email collections. This release adopts the shared clarifications
-  without changing Mail handling text.
+- [Mail Processing](docs/specialized-methods/mail.md) — [v1.2.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/mail/v1.2.0/docs/specialized-methods/mail.md).
+  Specializes **A Simple Method for Processing Unorganized Items v1.4.0** for
+  email, aligning scope selection and order with that version. Covers
+  Inbox processing, filtered sets and other chosen email collections.
+  [Published Mail Processing v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/mail/v1.1.0/docs/specialized-methods/mail.md)
+  remains governed by v1.3.0 of that method.
 
 ## Versioning
 
-The shared method and each specialization have independent versions. Existing
-tags such as `v1.2.0` identify shared-method releases. Specialization tags use a
+**A Simple Method for Processing Unorganized Items** and each specialization,
+including **Mail Processing**, have independent versions. Existing tags such as
+`v1.2.0` identify releases of the shared method. Specialization tags use a
 stable method name, such as `mail/v1.0.0`. There is no additional global version.
 
 Each specialization declares its own version and the exact released shared

@@ -4,6 +4,40 @@ Versioned summaries of changes to the method and repository maintenance.
 For lasting decisions and their rationale, see the
 [decision log](docs/decision-log.md).
 
+## Unreleased
+
+## [Mail Processing v1.2.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/mail/v1.2.0)
+
+Released on 2026-10-16 after the owner accepted PR #7 and requested publication.
+
+- Align scope selection and order with **A Simple Method for Processing
+  Unorganized Items v1.4.0** and deliberately adopt that fixed governing version.
+- Preserve all other Mail Processing handling guidance.
+- Use the methods' names in document lists and release headings, and identify
+  the shared method by name in the Mail Processing introduction.
+
+This compatible minor release keeps independent versioning. Published **Mail
+Processing v1.1.0** retains its original governing version. See the
+[release review](docs/reviews/scope-selection-review.md).
+Organizers implementation adoption and skill interaction changes remain separate.
+
+## [A Simple Method for Processing Unorganized Items v1.4.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.4.0)
+
+Released on 2026-10-16 after the owner accepted PR #7 and requested publication.
+
+- Allow starting with an item or a candidate group from an available overview,
+  choosing and changing approaches according to available information and
+  proportionate investigation.
+- Distinguish the existing view as a starting point from required selection
+  and action order. Preserve whole-collection ordering evidence.
+- Apply effort guidance throughout the work, including execution and recovery.
+- Align scope refinement and continuation with either starting approach.
+
+This compatible minor release preserves handling authority, approval,
+verification, completion and stopping requirements. Published **A Simple Method
+for Processing Unorganized Items v1.3.0** remains fixed. See the
+[release review](docs/reviews/scope-selection-review.md).
+
 ## [Mail v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/mail/v1.1.0)
 
 Released on 2026-10-13 after the owner accepted the reviewed revision and

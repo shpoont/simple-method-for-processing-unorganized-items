@@ -314,3 +314,43 @@ candidate snapshots and records the final release documents and comparisons.
 
 Interactive pacing belongs to implementations. Mail Organizer changes and
 practical checks remain later work in Organizers, outside this method release.
+
+## D12 — 2026-10-16: Flexible scope selection and proportionate effort
+
+**Status: adopted for release as A Simple Method for Processing Unorganized Items
+v1.4.0 and Mail Processing v1.2.0.**
+The owner accepted the three shared-method directions and Mail alignment, then
+requested a Pro review of the branch candidate. After reviewing PR #7, the owner
+accepted the revision and requested publication.
+
+Allow a scope to start with an eligible unprocessed item or a candidate group
+from an available overview. Choose according to available information and the
+expected benefit relative to the effort of obtaining more. Approaches can change
+during the work; a complete inventory is not required.
+
+Use the existing order or view as a starting point while respecting ordering
+requirements from instructions, purpose, established policy or dependencies.
+Preserve evidence requirements for whole-collection order. Apply proportionate
+effort throughout the work, preserving authorized decisions, completion evidence,
+accessible unfinished work and the existing stopping conditions.
+
+Mail follows the revised shared rules rather than introducing another strategy.
+The compatible minor versions leave existing item-first workflows valid.
+Mail Processing v1.2.0 deliberately adopts the fixed A Simple Method for Processing
+Unorganized Items v1.4.0 source; published Mail Processing v1.1.0 retains its
+v1.3.0 dependency.
+
+Retain the existing action definition and authority rules. Dedicated unsubscribe
+wording and an action-level clarification were considered and dropped. Advice
+versus execution, recommendation quality and interactive conversation flow remain
+implementation review and improvement concerns in Organizers.
+
+The [review record](reviews/scope-selection-review.md) preserves candidate evidence.
+Document review does not establish practical effectiveness or implementation
+adoption.
+
+At the owner's request, identify the documents by their existing names in the PR,
+document lists and candidate headings. Introduce their relationship explicitly:
+A Simple Method for Processing Unorganized Items provides the shared rules;
+Mail Processing specializes them for email. The terms shared and specialized
+describe that relationship rather than replace the names.
