@@ -2,10 +2,10 @@
 
 Date: 16 October 2026.
 
-Status: Pro review complete; A Simple Method for Processing Unorganized Items
-v1.4.0 and Mail Processing v1.2.0 candidates ready for PR review. Four bounded
-clarifications and a later naming clarification were applied afterward and
-checked by the coordinator. Merge and publication remain pending.
+Status: approved for publication as A Simple Method for Processing Unorganized
+Items v1.4.0 and Mail Processing v1.2.0. The owner reviewed PR #7 and requested
+release. Four bounded clarifications and a later naming clarification were
+applied after the Pro review and checked by the coordinator. Release finalization is checked separately below.
 
 ## Scope and review basis
 
@@ -65,7 +65,7 @@ one-action preference, membership evidence and exceptions, scope completion,
 recovery, follow-up and stopping conditions remain in place. No formal operating
 mode, unsubscribe rule, action hierarchy or universal human checkpoint is added.
 
-## Current candidate snapshots
+## Candidate snapshots after PR review
 
 During PR review, the owner requested the methods' existing names in place of
 ambiguous shorthand. The PR, document lists and candidate headings now name the
@@ -80,23 +80,38 @@ to Pro. The original reviewed hashes above remain fixed.
 
 | Document | SHA-256 |
 | --- | --- |
-| [A Simple Method for Processing Unorganized Items v1.4.0 candidate](../simple-method-for-processing-unorganized-items.md) | `832187d8ef985b597e255227df9f45bb40ad1c901277473d1120f13ca3239dea` |
-| [Mail Processing v1.2.0 candidate](../specialized-methods/mail.md) | `c75fdc711433f7de553a37c2d7ce9d9c15ad4a674944200f86923a46c65aaebb` |
+| [A Simple Method for Processing Unorganized Items v1.4.0 candidate](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/aac149a60d36e477bb1fdb50a5fc8a7bbbd23ba9/docs/simple-method-for-processing-unorganized-items.md) | `832187d8ef985b597e255227df9f45bb40ad1c901277473d1120f13ca3239dea` |
+| [Mail Processing v1.2.0 candidate](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/aac149a60d36e477bb1fdb50a5fc8a7bbbd23ba9/docs/specialized-methods/mail.md) | `c75fdc711433f7de553a37c2d7ce9d9c15ad4a674944200f86923a46c65aaebb` |
 
-Current checks cover the four post-review clarifications, the later naming change,
+Checks at that stage covered the four post-review clarifications, the later naming change,
 Markdown links and anchors, whitespace, version/dependency consistency and
 preserved handling and historical records. These are document checks, not runtime
 tests.
 
+## Final release snapshots
+
+| Document | SHA-256 |
+| --- | --- |
+| [A Simple Method for Processing Unorganized Items v1.4.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/v1.4.0/docs/simple-method-for-processing-unorganized-items.md) | `a392b9667606a7bd13425573a581f0fc225d5eb6513ebf4ab3116ba69bdca159` |
+| [Mail Processing v1.2.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/mail/v1.2.0/docs/specialized-methods/mail.md) | `83808b1750ac3356fc9688356cd107d82363e49f44f35cca10119bb5975ef03c` |
+
+Release finalization removes the candidate markers and fixes Mail Processing's
+governing reference to the v1.4.0 tag. Exact comparisons preserve all reviewed
+handling guidance; the candidate snapshots above remain historical evidence.
+The coordinator separately checked final links and anchors, whitespace, version
+and dependency consistency, and preservation of earlier releases and reviews.
+No additional Pro review or implementation test is claimed.
+
 ## Version and publication
 
-Both proposed minor versions retain existing item-first workflows while adding
+Both minor versions retain existing item-first workflows while adding
 compatible scope-selection choices and deliberate Mail adoption. Published
 [A Simple Method for Processing Unorganized Items v1.3.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/v1.3.0/docs/simple-method-for-processing-unorganized-items.md)
 and [Mail Processing v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/mail/v1.1.0/docs/specialized-methods/mail.md)
 remain fixed. Historical review evidence is preserved.
 
-Mail's local candidate reference must be replaced with the fixed released shared
-source before publication. Version numbers and dependencies remain proposed
-until adoption. Publication will require its own approval and will not update
-Organizers, its installed references or any mailbox.
+Mail Processing's governing reference is fixed to A Simple Method for Processing
+Unorganized Items v1.4.0. The owner approved publication of both methods in PR #7.
+The independent tags are `v1.4.0` and `mail/v1.2.0`; keep the former marked Latest
+on GitHub and publish the latter with `--latest=false`. Publication does not
+update Organizers, its installed references or any mailbox.

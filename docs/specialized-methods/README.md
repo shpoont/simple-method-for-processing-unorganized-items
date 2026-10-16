@@ -26,11 +26,11 @@ assembled from these sources for convenient use.
 
 ## Methods
 
-- [Mail Processing](mail.md) — v1.2.0 release candidate, aligning scope selection
-  and order with **A Simple Method for Processing Unorganized Items v1.4.0**,
-  also a release candidate. Covers chosen email collections, with inbox
+- [Mail Processing](mail.md) — [v1.2.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/mail/v1.2.0/docs/specialized-methods/mail.md), aligning scope selection
+  and order with **A Simple Method for Processing Unorganized Items v1.4.0**.
+  Covers chosen email collections, with inbox
   processing as the main example; see the
-  [candidate review](../reviews/scope-selection-review.md).
+  [release review](../reviews/scope-selection-review.md).
   [Published Mail Processing v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/mail/v1.1.0/docs/specialized-methods/mail.md)
   remains governed by v1.3.0 of that method; its
   [release review](../reviews/decision-authority-review.md) remains historical

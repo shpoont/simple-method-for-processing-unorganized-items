@@ -317,10 +317,11 @@ practical checks remain later work in Organizers, outside this method release.
 
 ## D12 — 2026-10-16: Flexible scope selection and proportionate effort
 
-**Status: direction agreed; A Simple Method for Processing Unorganized Items
-v1.4.0 and Mail Processing v1.2.0 candidates in review.**
+**Status: adopted for release as A Simple Method for Processing Unorganized Items
+v1.4.0 and Mail Processing v1.2.0.**
 The owner accepted the three shared-method directions and Mail alignment, then
-requested a Pro review of the branch candidate. Publication remains pending.
+requested a Pro review of the branch candidate. After reviewing PR #7, the owner
+accepted the revision and requested publication.
 
 Allow a scope to start with an eligible unprocessed item or a candidate group
 from an available overview. Choose according to available information and the
@@ -334,9 +335,10 @@ effort throughout the work, preserving authorized decisions, completion evidence
 accessible unfinished work and the existing stopping conditions.
 
 Mail follows the revised shared rules rather than introducing another strategy.
-The proposed compatible minor versions leave existing item-first workflows valid.
-The Mail candidate proposes deliberate adoption of shared v1.4.0; published Mail
-v1.1.0 retains its shared v1.3.0 dependency.
+The compatible minor versions leave existing item-first workflows valid.
+Mail Processing v1.2.0 deliberately adopts the fixed A Simple Method for Processing
+Unorganized Items v1.4.0 source; published Mail Processing v1.1.0 retains its
+v1.3.0 dependency.
 
 Retain the existing action definition and authority rules. Dedicated unsubscribe
 wording and an action-level clarification were considered and dropped. Advice
