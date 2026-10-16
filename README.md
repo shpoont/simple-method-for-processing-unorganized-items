@@ -8,16 +8,18 @@ Author: **Leon.id Komarovsky** — [leonid@komarovsky.info](mailto:leonid@komaro
 
 ## Documents
 
-- [Shared method](docs/simple-method-for-processing-unorganized-items.md) — v1.3.0,
-  clarifying handling authority and informed approval.
+- [Shared method candidate](docs/simple-method-for-processing-unorganized-items.md)
+  — v1.4.0, adding flexible scope selection and applying effort guidance throughout
+  the work. The [published v1.3.0 method](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/v1.3.0/docs/simple-method-for-processing-unorganized-items.md)
+  remains fixed.
 - [Specialized methods](docs/specialized-methods/README.md) — domain-specific
   applications of the shared method, with version and adoption guidance.
 - [Decision log](docs/decision-log.md) — lasting decisions and their rationale.
   The method document contains the guidance to use.
 - [Changelog](CHANGELOG.md) — summaries of changes by version and repository
   maintenance.
-- [Release review](docs/reviews/decision-authority-review.md) — agreed changes,
-  consistency checks and Mail's adoption of shared v1.3.0.
+- [Candidate review](docs/reviews/scope-selection-review.md) — review scope,
+  snapshots and findings for this revision.
 
 The latest published shared-method release is
 [v1.3.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/v1.3.0),
@@ -29,11 +31,11 @@ pin a released tag or commit.
 
 ## Specialized methods
 
-- [Mail Processing](docs/specialized-methods/mail.md) —
-  [v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/mail/v1.1.0),
-  governed by shared v1.3.0. Covers Inbox processing, filtered sets and other
-  chosen email collections. This release adopts the shared clarifications
-  without changing Mail handling text.
+- [Mail Processing candidate](docs/specialized-methods/mail.md) — v1.2.0,
+  aligning scope selection and order with the shared v1.4.0 candidate. Covers
+  Inbox processing, filtered sets and other chosen email collections.
+  [Published Mail v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/mail/v1.1.0/docs/specialized-methods/mail.md)
+  remains governed by shared v1.3.0.
 
 ## Versioning
 

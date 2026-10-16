@@ -4,6 +4,30 @@ Versioned summaries of changes to the method and repository maintenance.
 For lasting decisions and their rationale, see the
 [decision log](docs/decision-log.md).
 
+## Unreleased
+
+### Shared method v1.4.0 candidate
+
+- Allow starting with an item or a candidate group from an available overview,
+  choosing and changing approaches according to available information and
+  proportionate investigation.
+- Distinguish the existing view as a starting point from required selection
+  and action order. Preserve whole-collection ordering evidence.
+- Apply effort guidance throughout the work, including execution and recovery.
+- Align scope refinement and continuation with either starting approach.
+
+### Mail v1.2.0 candidate
+
+- Align scope selection and order with the shared v1.4.0 candidate and propose
+  deliberate adoption of that governing version.
+- Preserve all other Mail handling guidance.
+
+These are compatible minor candidates under the README's criteria. Published
+shared v1.3.0 and Mail v1.1.0 remain fixed. Mail's candidate reference is local
+during review and must be pinned to the released governing source before
+publication. See the [candidate review](docs/reviews/scope-selection-review.md).
+Organizers implementation adoption and skill interaction changes remain separate.
+
 ## [Mail v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/releases/tag/mail/v1.1.0)
 
 Released on 2026-10-13 after the owner accepted the reviewed revision and

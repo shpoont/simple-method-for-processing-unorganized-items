@@ -1,6 +1,6 @@
 # A Simple Method for Processing Unorganized Items
 
-Version: **1.3.0**
+Version: **1.4.0 — release candidate**
 
 Work through a collection one item or group at a time: choose the scope, decide
 what to do, act and check, then continue.
@@ -37,30 +37,39 @@ Exclude later arrivals unless explicitly included.
 already in a folder named Downloads and all its subfolders. This boundary includes
 nested contents without listing every file.
 
-Use the existing order or current view by default. Choose another only when the
-purpose needs it, or a useful one if none exists. By default, work from the eligible
-items you have discovered; make incomplete discovery clear.
+Use the existing order or current view as a starting point, or choose a useful
+one if neither exists. Follow any order required by instructions, purpose,
+established policy or dependencies. By default, work from eligible items you
+have discovered; make incomplete discovery clear.
 
 When precise ordering matters, resolve relevant ties and selection across included
 levels. A required whole-collection order needs adequate evidence, such as a
 reliable sorted view. The newest item found may not be globally newest.
 
+Throughout the work, weigh expected benefit and reuse in later work against time
+and resources, considering what is already known and the consequences of error.
+Reassess when the approach becomes substantially harder or more costly than
+expected. Item count alone does not determine effort.
+
 ## Choose the scope
 
-Start the scope with the first unprocessed item in that order or view, skipping
-blocked items while keeping them tracked.
+You can start with one eligible unprocessed item and expand when useful, or
+identify a candidate group containing unprocessed items from an available
+overview, such as a list or grouped view. Choose the approach according to the
+information available and whether obtaining more would be worth the effort. You
+may switch approaches as work develops.
 
-One item is enough.
+One item is enough. Follow required selection order. Skip blocked items where
+required selection order permits, keeping them tracked.
 
 ### Refine the scope
 
-You may expand the scope to a group, even the whole collection,
-including a container, selected contents or both. Additional members need not
-share the starting item's age or position, but follow any required order for
-selecting items and carrying out actions.
+You may expand or narrow the scope, including a container, selected contents or
+both; it may cover the whole collection. Members need not be adjacent. Follow
+required order for selecting items and carrying out actions.
 
-When expanding would help, find candidates by browsing, searching, comparing,
-following references or asking for context. Confirm membership from the purpose,
+When useful, find candidates by browsing, searching, comparing, following
+references or asking for context. Confirm membership from the purpose,
 evidence and exceptions. Similarity alone is insufficient, though reliable search
 evidence may suffice. Keep uncertain membership pending. Material outside the
 collection can inform the decision, but changing it needs separate authority.
@@ -75,9 +84,7 @@ several actions are needed. Split only when that helps while preserving
 dependencies and without adding disproportionate work.
 
 You may gather evidence for membership or handling when useful; existing evidence
-may suffice. Weigh expected improvement and reuse in later work against time and
-resources, taking error consequences and what is already known into account.
-Item count alone does not determine effort.
+may suffice.
 
 **Example:** Continuing the folder example, search may identify three related
 files in Downloads that could be archived together. Information in other files
@@ -173,7 +180,7 @@ independent work or an authorized next step.
 
 ## Continue or stop
 
-Return to the next unprocessed item. An empty current view does not establish
+Return to choosing the next scope. An empty current view does not establish
 completion: unless evidence already confirms it, continue finding eligible items
 within the defined boundary while the work limit allows and authorized work can
 proceed. Stop when all included items are processed, the work limit is reached or

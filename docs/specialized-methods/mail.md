@@ -1,8 +1,8 @@
 # Mail Processing
 
-Version: **1.1.0**
+Version: **1.2.0 — release candidate**
 
-This specializes [shared method v1.3.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/v1.3.0/docs/simple-method-for-processing-unorganized-items.md). All its rules apply. People and agents can use it directly; existing tools and routines may suffice without an additional record system.
+This specializes [shared method v1.4.0 — release candidate](../simple-method-for-processing-unorganized-items.md). All its rules apply. People and agents can use it directly; existing tools and routines may suffice without an additional record system.
 
 An individual email message is an **item**. Attachments are message content: consider them where relevant without automatically making them separate items.
 
@@ -24,11 +24,11 @@ Define when membership is evaluated. By default, use membership at the start and
 
 Define filter meanings. Where labels are supported, “without labels” might mean no user-defined organizational labels, excluding built-in status markers.
 
-Use the existing order by default. Relevant preferences about people, projects, deadlines or alerts may guide handling and, when the purpose requires it, order. Ask about preferences when useful, without requiring priority setup; keep material uncertainty visible.
+Follow the shared method’s ordering guidance. Relevant preferences about people, projects, deadlines or alerts may guide handling and scope selection. Ask about preferences when useful, without requiring priority setup; keep material uncertainty visible.
 
 ## Choose the scope
 
-Start with the next unprocessed message, skipping tracked blocked work. A conversation or other related messages may form a scope. Distinguish the same message appearing in several views from separate copies.
+Following the shared method, start with one eligible unprocessed message or a candidate group containing unprocessed messages from an available overview. A conversation or other related messages may form a scope. Skip blocked work where required selection order permits, keeping it tracked. Distinguish the same message appearing in several views from separate copies.
 
 When grouping messages, follow the shared method’s provisional preference for one appropriate shared handling action, including its exceptions and guidance on effort. Sender, subject and conversation membership can suggest candidates; confirm membership from the purpose, evidence and exceptions.
 
