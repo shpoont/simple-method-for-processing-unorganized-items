@@ -1,7 +1,8 @@
 # Specialized methods
 
-Specialized methods apply the [shared method](../simple-method-for-processing-unorganized-items.md)
-to a domain, purpose or recurring situation. They define suitable handling and
+[A Simple Method for Processing Unorganized Items](../simple-method-for-processing-unorganized-items.md)
+provides the shared rules. Specialized methods apply those rules to a domain,
+purpose or recurring situation. They define suitable handling and
 evidence while following the shared method's rules. If a logical conflict arises,
 raise it for consideration of a shared-method change rather than introduce an
 exception in the specialization. Adoption and changes require the owner's approval.
@@ -25,16 +26,17 @@ assembled from these sources for convenient use.
 
 ## Methods
 
-- [Mail Processing candidate](mail.md) — v1.2.0, aligning scope selection and order
-  with the shared v1.4.0 candidate. Covers chosen email collections, with inbox
+- [Mail Processing](mail.md) — v1.2.0 release candidate, aligning scope selection
+  and order with **A Simple Method for Processing Unorganized Items v1.4.0**,
+  also a release candidate. Covers chosen email collections, with inbox
   processing as the main example; see the
   [candidate review](../reviews/scope-selection-review.md).
-  [Published Mail v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/mail/v1.1.0/docs/specialized-methods/mail.md)
-  remains governed by shared v1.3.0; its
+  [Published Mail Processing v1.1.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/mail/v1.1.0/docs/specialized-methods/mail.md)
+  remains governed by v1.3.0 of that method; its
   [release review](../reviews/decision-authority-review.md) remains historical
   evidence for that revision.
-  [Published Mail v1.0.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/mail/v1.0.0/docs/specialized-methods/mail.md)
-  continues to follow shared v1.2.0. Its
+  [Published Mail Processing v1.0.0](https://github.com/shpoont/simple-method-for-processing-unorganized-items/blob/mail/v1.0.0/docs/specialized-methods/mail.md)
+  continues to follow v1.2.0 of that method. Its
   [historical review](../reviews/mail-specialization-review.md) records Pro's
   assessments, independent reviews and editorial clarifications for that release.
 

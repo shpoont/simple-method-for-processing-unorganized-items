@@ -317,7 +317,8 @@ practical checks remain later work in Organizers, outside this method release.
 
 ## D12 — 2026-10-16: Flexible scope selection and proportionate effort
 
-**Status: direction agreed; shared v1.4.0 and Mail v1.2.0 candidates in review.**
+**Status: direction agreed; A Simple Method for Processing Unorganized Items
+v1.4.0 and Mail Processing v1.2.0 candidates in review.**
 The owner accepted the three shared-method directions and Mail alignment, then
 requested a Pro review of the branch candidate. Publication remains pending.
 
@@ -345,3 +346,9 @@ implementation review and improvement concerns in Organizers.
 The [review record](reviews/scope-selection-review.md) preserves candidate evidence.
 Document review does not establish practical effectiveness or implementation
 adoption.
+
+At the owner's request, identify the documents by their existing names in the PR,
+document lists and candidate headings. Introduce their relationship explicitly:
+A Simple Method for Processing Unorganized Items provides the shared rules;
+Mail Processing specializes them for email. The terms shared and specialized
+describe that relationship rather than replace the names.

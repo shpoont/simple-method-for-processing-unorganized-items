@@ -6,7 +6,7 @@ For lasting decisions and their rationale, see the
 
 ## Unreleased
 
-### Shared method v1.4.0 candidate
+### A Simple Method for Processing Unorganized Items v1.4.0 candidate
 
 - Allow starting with an item or a candidate group from an available overview,
   choosing and changing approaches according to available information and
@@ -16,14 +16,18 @@ For lasting decisions and their rationale, see the
 - Apply effort guidance throughout the work, including execution and recovery.
 - Align scope refinement and continuation with either starting approach.
 
-### Mail v1.2.0 candidate
+### Mail Processing v1.2.0 candidate
 
-- Align scope selection and order with the shared v1.4.0 candidate and propose
-  deliberate adoption of that governing version.
-- Preserve all other Mail handling guidance.
+- Align scope selection and order with **A Simple Method for Processing
+  Unorganized Items v1.4.0**, also a candidate, and propose deliberate adoption
+  of that governing version.
+- Preserve all other Mail Processing handling guidance.
+- Use the methods' names in document lists and candidate headings, and identify
+  the shared method by name in the Mail Processing introduction.
 
 These are compatible minor candidates under the README's criteria. Published
-shared v1.3.0 and Mail v1.1.0 remain fixed. Mail's candidate reference is local
+**A Simple Method for Processing Unorganized Items v1.3.0** and **Mail Processing
+v1.1.0** remain fixed. Mail Processing's candidate reference is local
 during review and must be pinned to the released governing source before
 publication. See the [candidate review](docs/reviews/scope-selection-review.md).
 Organizers implementation adoption and skill interaction changes remain separate.

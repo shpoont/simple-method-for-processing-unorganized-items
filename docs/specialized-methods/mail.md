@@ -2,7 +2,7 @@
 
 Version: **1.2.0 — release candidate**
 
-This specializes [shared method v1.4.0 — release candidate](../simple-method-for-processing-unorganized-items.md). All its rules apply. People and agents can use it directly; existing tools and routines may suffice without an additional record system.
+Mail Processing specializes [A Simple Method for Processing Unorganized Items v1.4.0 — release candidate](../simple-method-for-processing-unorganized-items.md), the shared method. All its rules apply. People and agents can use Mail Processing directly; existing tools and routines may suffice without an additional record system.
 
 An individual email message is an **item**. Attachments are message content: consider them where relevant without automatically making them separate items.
 
